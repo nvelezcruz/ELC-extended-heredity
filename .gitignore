@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+venv/
+outputs/
+tmp/
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+

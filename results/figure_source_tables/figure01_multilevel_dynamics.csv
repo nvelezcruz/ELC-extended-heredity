@@ -1,0 +1,945 @@
+figure,seed,illustrative_lineage_d,level,generation,t_l_index,u,in_analysis_segment,is_reproductive_state,component,value
+figure01_multilevel_dynamics,254989981,1,development,9,0,0.0,False,False,regulatory initiation,0.307266060210864
+figure01_multilevel_dynamics,254989981,1,development,9,1,0.017857142857142856,False,False,regulatory initiation,0.3161407599036056
+figure01_multilevel_dynamics,254989981,1,development,9,2,0.03571428571428571,False,False,regulatory initiation,0.2899711083576292
+figure01_multilevel_dynamics,254989981,1,development,9,3,0.05357142857142857,False,False,regulatory initiation,0.28040052606046695
+figure01_multilevel_dynamics,254989981,1,development,9,4,0.07142857142857142,False,False,regulatory initiation,0.2798553968027773
+figure01_multilevel_dynamics,254989981,1,development,9,5,0.08928571428571427,False,False,regulatory initiation,0.275002603540501
+figure01_multilevel_dynamics,254989981,1,development,9,6,0.10714285714285714,True,False,regulatory initiation,0.2605121072683348
+figure01_multilevel_dynamics,254989981,1,development,9,7,0.125,True,False,regulatory initiation,0.2678847079881973
+figure01_multilevel_dynamics,254989981,1,development,9,8,0.14285714285714285,True,False,regulatory initiation,0.27991850683057606
+figure01_multilevel_dynamics,254989981,1,development,9,9,0.1607142857142857,True,False,regulatory initiation,0.2867946253082024
+figure01_multilevel_dynamics,254989981,1,development,9,10,0.17857142857142855,True,False,regulatory initiation,0.2542066175304028
+figure01_multilevel_dynamics,254989981,1,development,9,11,0.19642857142857142,True,False,regulatory initiation,0.2664105326415675
+figure01_multilevel_dynamics,254989981,1,development,9,12,0.21428571428571427,True,False,regulatory initiation,0.26679046512245613
+figure01_multilevel_dynamics,254989981,1,development,9,13,0.23214285714285712,True,False,regulatory initiation,0.2517827815765398
+figure01_multilevel_dynamics,254989981,1,development,9,14,0.25,False,False,regulatory initiation,0.23048445402531856
+figure01_multilevel_dynamics,254989981,1,development,9,15,0.26785714285714285,False,False,regulatory initiation,0.2181155669567875
+figure01_multilevel_dynamics,254989981,1,development,9,16,0.2857142857142857,False,False,regulatory initiation,0.22310995820564117
+figure01_multilevel_dynamics,254989981,1,development,9,17,0.30357142857142855,False,False,regulatory initiation,0.23287783274434823
+figure01_multilevel_dynamics,254989981,1,development,9,18,0.3214285714285714,False,False,regulatory initiation,0.23673201093080792
+figure01_multilevel_dynamics,254989981,1,development,9,19,0.33928571428571425,False,False,regulatory initiation,0.21479863911086988
+figure01_multilevel_dynamics,254989981,1,development,9,20,0.3571428571428571,False,False,regulatory initiation,0.2287843117293905
+figure01_multilevel_dynamics,254989981,1,development,9,21,0.375,False,False,regulatory initiation,0.24554260088193144
+figure01_multilevel_dynamics,254989981,1,development,9,22,0.39285714285714285,False,False,regulatory initiation,0.23436935601609502
+figure01_multilevel_dynamics,254989981,1,development,9,23,0.4107142857142857,False,False,regulatory initiation,0.2591406924820613
+figure01_multilevel_dynamics,254989981,1,development,9,24,0.42857142857142855,False,False,regulatory initiation,0.25286391896704924
+figure01_multilevel_dynamics,254989981,1,development,9,25,0.4464285714285714,False,False,regulatory initiation,0.2648201969594055
+figure01_multilevel_dynamics,254989981,1,development,9,26,0.46428571428571425,False,False,regulatory initiation,0.28467584622278097
+figure01_multilevel_dynamics,254989981,1,development,9,27,0.4821428571428571,False,False,regulatory initiation,0.27553917876868617
+figure01_multilevel_dynamics,254989981,1,development,9,28,0.5,False,False,regulatory initiation,0.2646554063507028
+figure01_multilevel_dynamics,254989981,1,development,9,29,0.5178571428571428,False,False,regulatory initiation,0.28744437586100513
+figure01_multilevel_dynamics,254989981,1,development,9,30,0.5357142857142857,False,False,regulatory initiation,0.28036288720895136
+figure01_multilevel_dynamics,254989981,1,development,9,31,0.5535714285714285,False,False,regulatory initiation,0.28387700653372155
+figure01_multilevel_dynamics,254989981,1,development,9,32,0.5714285714285714,False,False,regulatory initiation,0.2892687869272221
+figure01_multilevel_dynamics,254989981,1,development,9,33,0.5892857142857143,False,False,regulatory initiation,0.3053797439652819
+figure01_multilevel_dynamics,254989981,1,development,9,34,0.6071428571428571,False,False,regulatory initiation,0.3086110150066392
+figure01_multilevel_dynamics,254989981,1,development,9,35,0.625,False,False,regulatory initiation,0.29296934262191765
+figure01_multilevel_dynamics,254989981,1,development,9,36,0.6428571428571428,False,False,regulatory initiation,0.29664102031943207
+figure01_multilevel_dynamics,254989981,1,development,9,37,0.6607142857142857,False,False,regulatory initiation,0.29704176230646184
+figure01_multilevel_dynamics,254989981,1,development,9,38,0.6785714285714285,False,False,regulatory initiation,0.2883391297516921
+figure01_multilevel_dynamics,254989981,1,development,9,39,0.6964285714285714,False,False,regulatory initiation,0.2968241127021662
+figure01_multilevel_dynamics,254989981,1,development,9,40,0.7142857142857142,False,False,regulatory initiation,0.26400312666379516
+figure01_multilevel_dynamics,254989981,1,development,9,41,0.7321428571428571,False,False,regulatory initiation,0.25969492091420465
+figure01_multilevel_dynamics,254989981,1,development,9,42,0.75,False,True,regulatory initiation,0.26388424412135175
+figure01_multilevel_dynamics,254989981,1,development,9,43,0.7678571428571428,False,False,regulatory initiation,0.2724700635064428
+figure01_multilevel_dynamics,254989981,1,development,9,44,0.7857142857142857,False,False,regulatory initiation,0.28246703950020663
+figure01_multilevel_dynamics,254989981,1,development,9,45,0.8035714285714285,False,False,regulatory initiation,0.30244624307936474
+figure01_multilevel_dynamics,254989981,1,development,9,46,0.8214285714285714,False,False,regulatory initiation,0.31281528827874466
+figure01_multilevel_dynamics,254989981,1,development,9,47,0.8392857142857142,False,False,regulatory initiation,0.3275264404200208
+figure01_multilevel_dynamics,254989981,1,development,9,48,0.8571428571428571,False,False,regulatory initiation,0.33808459951857006
+figure01_multilevel_dynamics,254989981,1,development,9,49,0.875,False,False,regulatory initiation,0.33141443713370505
+figure01_multilevel_dynamics,254989981,1,development,9,50,0.8928571428571428,False,False,regulatory initiation,0.32678152281979994
+figure01_multilevel_dynamics,254989981,1,development,9,51,0.9107142857142857,False,False,regulatory initiation,0.2948011894171481
+figure01_multilevel_dynamics,254989981,1,development,9,52,0.9285714285714285,False,False,regulatory initiation,0.28668317687664807
+figure01_multilevel_dynamics,254989981,1,development,9,53,0.9464285714285714,False,False,regulatory initiation,0.2749102255075144
+figure01_multilevel_dynamics,254989981,1,development,9,54,0.9642857142857142,False,False,regulatory initiation,0.27805041105451417
+figure01_multilevel_dynamics,254989981,1,development,9,55,0.9821428571428571,False,False,regulatory initiation,0.2697317460832066
+figure01_multilevel_dynamics,254989981,1,development,9,56,1.0,False,False,regulatory initiation,0.28216914077472494
+figure01_multilevel_dynamics,254989981,1,development,9,0,0.0,False,False,somatic growth,0.08520277634601858
+figure01_multilevel_dynamics,254989981,1,development,9,1,0.017857142857142856,False,False,somatic growth,0.08842490424905983
+figure01_multilevel_dynamics,254989981,1,development,9,2,0.03571428571428571,False,False,somatic growth,0.07808787912121389
+figure01_multilevel_dynamics,254989981,1,development,9,3,0.05357142857142857,False,False,somatic growth,0.0761614543289704
+figure01_multilevel_dynamics,254989981,1,development,9,4,0.07142857142857142,False,False,somatic growth,0.0808813519812809
+figure01_multilevel_dynamics,254989981,1,development,9,5,0.08928571428571427,False,False,somatic growth,0.08979885525568211
+figure01_multilevel_dynamics,254989981,1,development,9,6,0.10714285714285714,True,False,somatic growth,0.06818335138476389
+figure01_multilevel_dynamics,254989981,1,development,9,7,0.125,True,False,somatic growth,0.08718395798119564
+figure01_multilevel_dynamics,254989981,1,development,9,8,0.14285714285714285,True,False,somatic growth,0.08505885449251235
+figure01_multilevel_dynamics,254989981,1,development,9,9,0.1607142857142857,True,False,somatic growth,0.09784784951930148
+figure01_multilevel_dynamics,254989981,1,development,9,10,0.17857142857142855,True,False,somatic growth,0.09566656345913417
+figure01_multilevel_dynamics,254989981,1,development,9,11,0.19642857142857142,True,False,somatic growth,0.12480739521180685
+figure01_multilevel_dynamics,254989981,1,development,9,12,0.21428571428571427,True,False,somatic growth,0.11829644313945442
+figure01_multilevel_dynamics,254989981,1,development,9,13,0.23214285714285712,True,False,somatic growth,0.1540120797480237
+figure01_multilevel_dynamics,254989981,1,development,9,14,0.25,False,False,somatic growth,0.1616841350110656
+figure01_multilevel_dynamics,254989981,1,development,9,15,0.26785714285714285,False,False,somatic growth,0.17137874836409234
+figure01_multilevel_dynamics,254989981,1,development,9,16,0.2857142857142857,False,False,somatic growth,0.1797628164944412
+figure01_multilevel_dynamics,254989981,1,development,9,17,0.30357142857142855,False,False,somatic growth,0.20417705775162112
+figure01_multilevel_dynamics,254989981,1,development,9,18,0.3214285714285714,False,False,somatic growth,0.1987852907833249
+figure01_multilevel_dynamics,254989981,1,development,9,19,0.33928571428571425,False,False,somatic growth,0.21741426843966388
+figure01_multilevel_dynamics,254989981,1,development,9,20,0.3571428571428571,False,False,somatic growth,0.21649040244585452
+figure01_multilevel_dynamics,254989981,1,development,9,21,0.375,False,False,somatic growth,0.21226280453300128
+figure01_multilevel_dynamics,254989981,1,development,9,22,0.39285714285714285,False,False,somatic growth,0.21246638475853127
+figure01_multilevel_dynamics,254989981,1,development,9,23,0.4107142857142857,False,False,somatic growth,0.1749203488197995
+figure01_multilevel_dynamics,254989981,1,development,9,24,0.42857142857142855,False,False,somatic growth,0.19271936982645488
+figure01_multilevel_dynamics,254989981,1,development,9,25,0.4464285714285714,False,False,somatic growth,0.18091417157337678
+figure01_multilevel_dynamics,254989981,1,development,9,26,0.46428571428571425,False,False,somatic growth,0.1736559486628012
+figure01_multilevel_dynamics,254989981,1,development,9,27,0.4821428571428571,False,False,somatic growth,0.15667534261784644
+figure01_multilevel_dynamics,254989981,1,development,9,28,0.5,False,False,somatic growth,0.145762097664958
+figure01_multilevel_dynamics,254989981,1,development,9,29,0.5178571428571428,False,False,somatic growth,0.13679390803033206
+figure01_multilevel_dynamics,254989981,1,development,9,30,0.5357142857142857,False,False,somatic growth,0.136828449091465
+figure01_multilevel_dynamics,254989981,1,development,9,31,0.5535714285714285,False,False,somatic growth,0.14289933040316602
+figure01_multilevel_dynamics,254989981,1,development,9,32,0.5714285714285714,False,False,somatic growth,0.1590739683083226
+figure01_multilevel_dynamics,254989981,1,development,9,33,0.5892857142857143,False,False,somatic growth,0.14929092089116772
+figure01_multilevel_dynamics,254989981,1,development,9,34,0.6071428571428571,False,False,somatic growth,0.1395755119564423
+figure01_multilevel_dynamics,254989981,1,development,9,35,0.625,False,False,somatic growth,0.12848415541752428
+figure01_multilevel_dynamics,254989981,1,development,9,36,0.6428571428571428,False,False,somatic growth,0.10900820190157567
+figure01_multilevel_dynamics,254989981,1,development,9,37,0.6607142857142857,False,False,somatic growth,0.11652862644986807
+figure01_multilevel_dynamics,254989981,1,development,9,38,0.6785714285714285,False,False,somatic growth,0.1102419636518235
+figure01_multilevel_dynamics,254989981,1,development,9,39,0.6964285714285714,False,False,somatic growth,0.11753808841516243
+figure01_multilevel_dynamics,254989981,1,development,9,40,0.7142857142857142,False,False,somatic growth,0.09099776994558911
+figure01_multilevel_dynamics,254989981,1,development,9,41,0.7321428571428571,False,False,somatic growth,0.08736602174407257
+figure01_multilevel_dynamics,254989981,1,development,9,42,0.75,False,True,somatic growth,0.09813716669759834
+figure01_multilevel_dynamics,254989981,1,development,9,43,0.7678571428571428,False,False,somatic growth,0.12239862751698076
+figure01_multilevel_dynamics,254989981,1,development,9,44,0.7857142857142857,False,False,somatic growth,0.1057567985627106
+figure01_multilevel_dynamics,254989981,1,development,9,45,0.8035714285714285,False,False,somatic growth,0.11384249663054662
+figure01_multilevel_dynamics,254989981,1,development,9,46,0.8214285714285714,False,False,somatic growth,0.10430409528209354
+figure01_multilevel_dynamics,254989981,1,development,9,47,0.8392857142857142,False,False,somatic growth,0.08274790908020192
+figure01_multilevel_dynamics,254989981,1,development,9,48,0.8571428571428571,False,False,somatic growth,0.044762458259581916
+figure01_multilevel_dynamics,254989981,1,development,9,49,0.875,False,False,somatic growth,0.04352766697141523
+figure01_multilevel_dynamics,254989981,1,development,9,50,0.8928571428571428,False,False,somatic growth,0.026107472423742957
+figure01_multilevel_dynamics,254989981,1,development,9,51,0.9107142857142857,False,False,somatic growth,0.036741530473630095
+figure01_multilevel_dynamics,254989981,1,development,9,52,0.9285714285714285,False,False,somatic growth,0.02502159793192462
+figure01_multilevel_dynamics,254989981,1,development,9,53,0.9464285714285714,False,False,somatic growth,0.03802337006448356
+figure01_multilevel_dynamics,254989981,1,development,9,54,0.9642857142857142,False,False,somatic growth,0.029193513277526863
+figure01_multilevel_dynamics,254989981,1,development,9,55,0.9821428571428571,False,False,somatic growth,0.04009999220758436
+figure01_multilevel_dynamics,254989981,1,development,9,56,1.0,False,False,somatic growth,0.05359012880149454
+figure01_multilevel_dynamics,254989981,1,development,9,0,0.0,False,False,stress response,0.002289642728264568
+figure01_multilevel_dynamics,254989981,1,development,9,1,0.017857142857142856,False,False,stress response,0.023674582886457546
+figure01_multilevel_dynamics,254989981,1,development,9,2,0.03571428571428571,False,False,stress response,0.021384731890902016
+figure01_multilevel_dynamics,254989981,1,development,9,3,0.05357142857142857,False,False,stress response,-0.0017891534111460685
+figure01_multilevel_dynamics,254989981,1,development,9,4,0.07142857142857142,False,False,stress response,0.01250451581169584
+figure01_multilevel_dynamics,254989981,1,development,9,5,0.08928571428571427,False,False,stress response,0.01708181124649383
+figure01_multilevel_dynamics,254989981,1,development,9,6,0.10714285714285714,True,False,stress response,0.03390768199347949
+figure01_multilevel_dynamics,254989981,1,development,9,7,0.125,True,False,stress response,0.01952496807771307
+figure01_multilevel_dynamics,254989981,1,development,9,8,0.14285714285714285,True,False,stress response,0.02997894349603709
+figure01_multilevel_dynamics,254989981,1,development,9,9,0.1607142857142857,True,False,stress response,0.06267642183970104
+figure01_multilevel_dynamics,254989981,1,development,9,10,0.17857142857142855,True,False,stress response,0.08896525718382539
+figure01_multilevel_dynamics,254989981,1,development,9,11,0.19642857142857142,True,False,stress response,0.0957136747115881
+figure01_multilevel_dynamics,254989981,1,development,9,12,0.21428571428571427,True,False,stress response,0.09058223412630788
+figure01_multilevel_dynamics,254989981,1,development,9,13,0.23214285714285712,True,False,stress response,0.08482377669441947
+figure01_multilevel_dynamics,254989981,1,development,9,14,0.25,False,False,stress response,0.06987504997168054
+figure01_multilevel_dynamics,254989981,1,development,9,15,0.26785714285714285,False,False,stress response,0.07547026268311821
+figure01_multilevel_dynamics,254989981,1,development,9,16,0.2857142857142857,False,False,stress response,0.08990817537697018
+figure01_multilevel_dynamics,254989981,1,development,9,17,0.30357142857142855,False,False,stress response,0.0706880139196265
+figure01_multilevel_dynamics,254989981,1,development,9,18,0.3214285714285714,False,False,stress response,0.0785451759483983
+figure01_multilevel_dynamics,254989981,1,development,9,19,0.33928571428571425,False,False,stress response,0.08681799157526979
+figure01_multilevel_dynamics,254989981,1,development,9,20,0.3571428571428571,False,False,stress response,0.09553211413448068
+figure01_multilevel_dynamics,254989981,1,development,9,21,0.375,False,False,stress response,0.06900881220248768
+figure01_multilevel_dynamics,254989981,1,development,9,22,0.39285714285714285,False,False,stress response,0.08893425827096388
+figure01_multilevel_dynamics,254989981,1,development,9,23,0.4107142857142857,False,False,stress response,0.09871704222017304
+figure01_multilevel_dynamics,254989981,1,development,9,24,0.42857142857142855,False,False,stress response,0.1084912204416662
+figure01_multilevel_dynamics,254989981,1,development,9,25,0.4464285714285714,False,False,stress response,0.09964390339302547
+figure01_multilevel_dynamics,254989981,1,development,9,26,0.46428571428571425,False,False,stress response,0.07142828157382852
+figure01_multilevel_dynamics,254989981,1,development,9,27,0.4821428571428571,False,False,stress response,0.07253064502446605
+figure01_multilevel_dynamics,254989981,1,development,9,28,0.5,False,False,stress response,0.04282199911403242
+figure01_multilevel_dynamics,254989981,1,development,9,29,0.5178571428571428,False,False,stress response,0.0600534913805549
+figure01_multilevel_dynamics,254989981,1,development,9,30,0.5357142857142857,False,False,stress response,0.058948055778278885
+figure01_multilevel_dynamics,254989981,1,development,9,31,0.5535714285714285,False,False,stress response,0.05908416148318643
+figure01_multilevel_dynamics,254989981,1,development,9,32,0.5714285714285714,False,False,stress response,0.04576668006838255
+figure01_multilevel_dynamics,254989981,1,development,9,33,0.5892857142857143,False,False,stress response,0.055127150225897675
+figure01_multilevel_dynamics,254989981,1,development,9,34,0.6071428571428571,False,False,stress response,0.02318299403546849
+figure01_multilevel_dynamics,254989981,1,development,9,35,0.625,False,False,stress response,0.021704223846061674
+figure01_multilevel_dynamics,254989981,1,development,9,36,0.6428571428571428,False,False,stress response,0.0188435324621104
+figure01_multilevel_dynamics,254989981,1,development,9,37,0.6607142857142857,False,False,stress response,0.008170784214366376
+figure01_multilevel_dynamics,254989981,1,development,9,38,0.6785714285714285,False,False,stress response,0.006759925169048882
+figure01_multilevel_dynamics,254989981,1,development,9,39,0.6964285714285714,False,False,stress response,0.016735097674983414
+figure01_multilevel_dynamics,254989981,1,development,9,40,0.7142857142857142,False,False,stress response,-0.013716901306025696
+figure01_multilevel_dynamics,254989981,1,development,9,41,0.7321428571428571,False,False,stress response,-0.01498339674706416
+figure01_multilevel_dynamics,254989981,1,development,9,42,0.75,False,True,stress response,-0.016690735936990084
+figure01_multilevel_dynamics,254989981,1,development,9,43,0.7678571428571428,False,False,stress response,-0.036058756485953455
+figure01_multilevel_dynamics,254989981,1,development,9,44,0.7857142857142857,False,False,stress response,-0.044726427314451166
+figure01_multilevel_dynamics,254989981,1,development,9,45,0.8035714285714285,False,False,stress response,-0.04712631561996188
+figure01_multilevel_dynamics,254989981,1,development,9,46,0.8214285714285714,False,False,stress response,-0.055005594135030283
+figure01_multilevel_dynamics,254989981,1,development,9,47,0.8392857142857142,False,False,stress response,-0.04336136386415626
+figure01_multilevel_dynamics,254989981,1,development,9,48,0.8571428571428571,False,False,stress response,-0.022763262606383977
+figure01_multilevel_dynamics,254989981,1,development,9,49,0.875,False,False,stress response,0.004221942152096921
+figure01_multilevel_dynamics,254989981,1,development,9,50,0.8928571428571428,False,False,stress response,0.041519827822894886
+figure01_multilevel_dynamics,254989981,1,development,9,51,0.9107142857142857,False,False,stress response,0.0862464375804375
+figure01_multilevel_dynamics,254989981,1,development,9,52,0.9285714285714285,False,False,stress response,0.09408276437932263
+figure01_multilevel_dynamics,254989981,1,development,9,53,0.9464285714285714,False,False,stress response,0.10731622539886933
+figure01_multilevel_dynamics,254989981,1,development,9,54,0.9642857142857142,False,False,stress response,0.12673366912985104
+figure01_multilevel_dynamics,254989981,1,development,9,55,0.9821428571428571,False,False,stress response,0.09650061786886287
+figure01_multilevel_dynamics,254989981,1,development,9,56,1.0,False,False,stress response,0.11301643098409717
+figure01_multilevel_dynamics,254989981,1,development,9,0,0.0,False,False,maturation timing,0.20999332114910468
+figure01_multilevel_dynamics,254989981,1,development,9,1,0.017857142857142856,False,False,maturation timing,0.20862674592173952
+figure01_multilevel_dynamics,254989981,1,development,9,2,0.03571428571428571,False,False,maturation timing,0.1922084843703573
+figure01_multilevel_dynamics,254989981,1,development,9,3,0.05357142857142857,False,False,maturation timing,0.1658193356676299
+figure01_multilevel_dynamics,254989981,1,development,9,4,0.07142857142857142,False,False,maturation timing,0.14102852436162785
+figure01_multilevel_dynamics,254989981,1,development,9,5,0.08928571428571427,False,False,maturation timing,0.14829671240658956
+figure01_multilevel_dynamics,254989981,1,development,9,6,0.10714285714285714,True,False,maturation timing,0.14343723548040976
+figure01_multilevel_dynamics,254989981,1,development,9,7,0.125,True,False,maturation timing,0.13402231527592573
+figure01_multilevel_dynamics,254989981,1,development,9,8,0.14285714285714285,True,False,maturation timing,0.14767389699302713
+figure01_multilevel_dynamics,254989981,1,development,9,9,0.1607142857142857,True,False,maturation timing,0.13967160100039963
+figure01_multilevel_dynamics,254989981,1,development,9,10,0.17857142857142855,True,False,maturation timing,0.13830196230411046
+figure01_multilevel_dynamics,254989981,1,development,9,11,0.19642857142857142,True,False,maturation timing,0.14134101578554628
+figure01_multilevel_dynamics,254989981,1,development,9,12,0.21428571428571427,True,False,maturation timing,0.14449109473136443
+figure01_multilevel_dynamics,254989981,1,development,9,13,0.23214285714285712,True,False,maturation timing,0.16165474399255414
+figure01_multilevel_dynamics,254989981,1,development,9,14,0.25,False,False,maturation timing,0.169142971007502
+figure01_multilevel_dynamics,254989981,1,development,9,15,0.26785714285714285,False,False,maturation timing,0.19531462573782002
+figure01_multilevel_dynamics,254989981,1,development,9,16,0.2857142857142857,False,False,maturation timing,0.18958318926229809
+figure01_multilevel_dynamics,254989981,1,development,9,17,0.30357142857142855,False,False,maturation timing,0.18451156437622587
+figure01_multilevel_dynamics,254989981,1,development,9,18,0.3214285714285714,False,False,maturation timing,0.19026663930669643
+figure01_multilevel_dynamics,254989981,1,development,9,19,0.33928571428571425,False,False,maturation timing,0.2105955655909808
+figure01_multilevel_dynamics,254989981,1,development,9,20,0.3571428571428571,False,False,maturation timing,0.20196369582156692
+figure01_multilevel_dynamics,254989981,1,development,9,21,0.375,False,False,maturation timing,0.21755740887401853
+figure01_multilevel_dynamics,254989981,1,development,9,22,0.39285714285714285,False,False,maturation timing,0.18950727159691258
+figure01_multilevel_dynamics,254989981,1,development,9,23,0.4107142857142857,False,False,maturation timing,0.18467590245182597
+figure01_multilevel_dynamics,254989981,1,development,9,24,0.42857142857142855,False,False,maturation timing,0.1829295687020648
+figure01_multilevel_dynamics,254989981,1,development,9,25,0.4464285714285714,False,False,maturation timing,0.1986430405135191
+figure01_multilevel_dynamics,254989981,1,development,9,26,0.46428571428571425,False,False,maturation timing,0.2011043189522108
+figure01_multilevel_dynamics,254989981,1,development,9,27,0.4821428571428571,False,False,maturation timing,0.2096381429956025
+figure01_multilevel_dynamics,254989981,1,development,9,28,0.5,False,False,maturation timing,0.22002959736832295
+figure01_multilevel_dynamics,254989981,1,development,9,29,0.5178571428571428,False,False,maturation timing,0.1964343930612723
+figure01_multilevel_dynamics,254989981,1,development,9,30,0.5357142857142857,False,False,maturation timing,0.18819168729691213
+figure01_multilevel_dynamics,254989981,1,development,9,31,0.5535714285714285,False,False,maturation timing,0.17724005784171667
+figure01_multilevel_dynamics,254989981,1,development,9,32,0.5714285714285714,False,False,maturation timing,0.16513504205124355
+figure01_multilevel_dynamics,254989981,1,development,9,33,0.5892857142857143,False,False,maturation timing,0.1714516568962822
+figure01_multilevel_dynamics,254989981,1,development,9,34,0.6071428571428571,False,False,maturation timing,0.19706697134191611
+figure01_multilevel_dynamics,254989981,1,development,9,35,0.625,False,False,maturation timing,0.22341860753471238
+figure01_multilevel_dynamics,254989981,1,development,9,36,0.6428571428571428,False,False,maturation timing,0.21923141199850738
+figure01_multilevel_dynamics,254989981,1,development,9,37,0.6607142857142857,False,False,maturation timing,0.24172431774711461
+figure01_multilevel_dynamics,254989981,1,development,9,38,0.6785714285714285,False,False,maturation timing,0.24961362019239836
+figure01_multilevel_dynamics,254989981,1,development,9,39,0.6964285714285714,False,False,maturation timing,0.2687194073845058
+figure01_multilevel_dynamics,254989981,1,development,9,40,0.7142857142857142,False,False,maturation timing,0.26103001386961877
+figure01_multilevel_dynamics,254989981,1,development,9,41,0.7321428571428571,False,False,maturation timing,0.28186032091091673
+figure01_multilevel_dynamics,254989981,1,development,9,42,0.75,False,True,maturation timing,0.28682656851761745
+figure01_multilevel_dynamics,254989981,1,development,9,43,0.7678571428571428,False,False,maturation timing,0.2804763145563886
+figure01_multilevel_dynamics,254989981,1,development,9,44,0.7857142857142857,False,False,maturation timing,0.3091519628657318
+figure01_multilevel_dynamics,254989981,1,development,9,45,0.8035714285714285,False,False,maturation timing,0.3189564554691771
+figure01_multilevel_dynamics,254989981,1,development,9,46,0.8214285714285714,False,False,maturation timing,0.3120338472576683
+figure01_multilevel_dynamics,254989981,1,development,9,47,0.8392857142857142,False,False,maturation timing,0.3201943734908577
+figure01_multilevel_dynamics,254989981,1,development,9,48,0.8571428571428571,False,False,maturation timing,0.33762104347688526
+figure01_multilevel_dynamics,254989981,1,development,9,49,0.875,False,False,maturation timing,0.3225665593030583
+figure01_multilevel_dynamics,254989981,1,development,9,50,0.8928571428571428,False,False,maturation timing,0.31404286066821235
+figure01_multilevel_dynamics,254989981,1,development,9,51,0.9107142857142857,False,False,maturation timing,0.29995589333407846
+figure01_multilevel_dynamics,254989981,1,development,9,52,0.9285714285714285,False,False,maturation timing,0.300795816865912
+figure01_multilevel_dynamics,254989981,1,development,9,53,0.9464285714285714,False,False,maturation timing,0.2908133606597589
+figure01_multilevel_dynamics,254989981,1,development,9,54,0.9642857142857142,False,False,maturation timing,0.2849078491937875
+figure01_multilevel_dynamics,254989981,1,development,9,55,0.9821428571428571,False,False,maturation timing,0.2754830057712502
+figure01_multilevel_dynamics,254989981,1,development,9,56,1.0,False,False,maturation timing,0.27838960929905515
+figure01_multilevel_dynamics,254989981,1,development,9,0,0.0,False,False,allocation signal,0.08981828296260172
+figure01_multilevel_dynamics,254989981,1,development,9,1,0.017857142857142856,False,False,allocation signal,0.10013372035071466
+figure01_multilevel_dynamics,254989981,1,development,9,2,0.03571428571428571,False,False,allocation signal,0.0835805486939097
+figure01_multilevel_dynamics,254989981,1,development,9,3,0.05357142857142857,False,False,allocation signal,0.11540354689359245
+figure01_multilevel_dynamics,254989981,1,development,9,4,0.07142857142857142,False,False,allocation signal,0.1056121953770882
+figure01_multilevel_dynamics,254989981,1,development,9,5,0.08928571428571427,False,False,allocation signal,0.09928077623920281
+figure01_multilevel_dynamics,254989981,1,development,9,6,0.10714285714285714,True,False,allocation signal,0.11409115715279206
+figure01_multilevel_dynamics,254989981,1,development,9,7,0.125,True,False,allocation signal,0.10624560863089726
+figure01_multilevel_dynamics,254989981,1,development,9,8,0.14285714285714285,True,False,allocation signal,0.10571554289145296
+figure01_multilevel_dynamics,254989981,1,development,9,9,0.1607142857142857,True,False,allocation signal,0.10645958851346718
+figure01_multilevel_dynamics,254989981,1,development,9,10,0.17857142857142855,True,False,allocation signal,0.10931695372669387
+figure01_multilevel_dynamics,254989981,1,development,9,11,0.19642857142857142,True,False,allocation signal,0.12832680937182056
+figure01_multilevel_dynamics,254989981,1,development,9,12,0.21428571428571427,True,False,allocation signal,0.14240638727338276
+figure01_multilevel_dynamics,254989981,1,development,9,13,0.23214285714285712,True,False,allocation signal,0.16715498065603557
+figure01_multilevel_dynamics,254989981,1,development,9,14,0.25,False,False,allocation signal,0.15409023427791083
+figure01_multilevel_dynamics,254989981,1,development,9,15,0.26785714285714285,False,False,allocation signal,0.15147422579355774
+figure01_multilevel_dynamics,254989981,1,development,9,16,0.2857142857142857,False,False,allocation signal,0.1940907218163734
+figure01_multilevel_dynamics,254989981,1,development,9,17,0.30357142857142855,False,False,allocation signal,0.19076933296423101
+figure01_multilevel_dynamics,254989981,1,development,9,18,0.3214285714285714,False,False,allocation signal,0.20254136212141408
+figure01_multilevel_dynamics,254989981,1,development,9,19,0.33928571428571425,False,False,allocation signal,0.19742372054994894
+figure01_multilevel_dynamics,254989981,1,development,9,20,0.3571428571428571,False,False,allocation signal,0.2007546509440011
+figure01_multilevel_dynamics,254989981,1,development,9,21,0.375,False,False,allocation signal,0.1935583422882106
+figure01_multilevel_dynamics,254989981,1,development,9,22,0.39285714285714285,False,False,allocation signal,0.18895876039813608
+figure01_multilevel_dynamics,254989981,1,development,9,23,0.4107142857142857,False,False,allocation signal,0.19206730776615122
+figure01_multilevel_dynamics,254989981,1,development,9,24,0.42857142857142855,False,False,allocation signal,0.2057597857728645
+figure01_multilevel_dynamics,254989981,1,development,9,25,0.4464285714285714,False,False,allocation signal,0.19700712869534404
+figure01_multilevel_dynamics,254989981,1,development,9,26,0.46428571428571425,False,False,allocation signal,0.2210204954531666
+figure01_multilevel_dynamics,254989981,1,development,9,27,0.4821428571428571,False,False,allocation signal,0.22306923364632886
+figure01_multilevel_dynamics,254989981,1,development,9,28,0.5,False,False,allocation signal,0.22156757375897254
+figure01_multilevel_dynamics,254989981,1,development,9,29,0.5178571428571428,False,False,allocation signal,0.23363235972401736
+figure01_multilevel_dynamics,254989981,1,development,9,30,0.5357142857142857,False,False,allocation signal,0.255714039796409
+figure01_multilevel_dynamics,254989981,1,development,9,31,0.5535714285714285,False,False,allocation signal,0.26973259083212275
+figure01_multilevel_dynamics,254989981,1,development,9,32,0.5714285714285714,False,False,allocation signal,0.294189329833629
+figure01_multilevel_dynamics,254989981,1,development,9,33,0.5892857142857143,False,False,allocation signal,0.298899556311904
+figure01_multilevel_dynamics,254989981,1,development,9,34,0.6071428571428571,False,False,allocation signal,0.3085878245364737
+figure01_multilevel_dynamics,254989981,1,development,9,35,0.625,False,False,allocation signal,0.33376308472364663
+figure01_multilevel_dynamics,254989981,1,development,9,36,0.6428571428571428,False,False,allocation signal,0.31338534136289087
+figure01_multilevel_dynamics,254989981,1,development,9,37,0.6607142857142857,False,False,allocation signal,0.29298960144722563
+figure01_multilevel_dynamics,254989981,1,development,9,38,0.6785714285714285,False,False,allocation signal,0.2749088469185971
+figure01_multilevel_dynamics,254989981,1,development,9,39,0.6964285714285714,False,False,allocation signal,0.2818736681694715
+figure01_multilevel_dynamics,254989981,1,development,9,40,0.7142857142857142,False,False,allocation signal,0.26408551246762124
+figure01_multilevel_dynamics,254989981,1,development,9,41,0.7321428571428571,False,False,allocation signal,0.2596843976084238
+figure01_multilevel_dynamics,254989981,1,development,9,42,0.75,False,True,allocation signal,0.25986145457936544
+figure01_multilevel_dynamics,254989981,1,development,9,43,0.7678571428571428,False,False,allocation signal,0.26269427224158
+figure01_multilevel_dynamics,254989981,1,development,9,44,0.7857142857142857,False,False,allocation signal,0.25932497382179476
+figure01_multilevel_dynamics,254989981,1,development,9,45,0.8035714285714285,False,False,allocation signal,0.2684580214134576
+figure01_multilevel_dynamics,254989981,1,development,9,46,0.8214285714285714,False,False,allocation signal,0.24746277968531447
+figure01_multilevel_dynamics,254989981,1,development,9,47,0.8392857142857142,False,False,allocation signal,0.23533818163720782
+figure01_multilevel_dynamics,254989981,1,development,9,48,0.8571428571428571,False,False,allocation signal,0.23850464139726368
+figure01_multilevel_dynamics,254989981,1,development,9,49,0.875,False,False,allocation signal,0.26197211007507937
+figure01_multilevel_dynamics,254989981,1,development,9,50,0.8928571428571428,False,False,allocation signal,0.27065179458925753
+figure01_multilevel_dynamics,254989981,1,development,9,51,0.9107142857142857,False,False,allocation signal,0.27672350239718063
+figure01_multilevel_dynamics,254989981,1,development,9,52,0.9285714285714285,False,False,allocation signal,0.2923020764044265
+figure01_multilevel_dynamics,254989981,1,development,9,53,0.9464285714285714,False,False,allocation signal,0.285984882377123
+figure01_multilevel_dynamics,254989981,1,development,9,54,0.9642857142857142,False,False,allocation signal,0.282638231979846
+figure01_multilevel_dynamics,254989981,1,development,9,55,0.9821428571428571,False,False,allocation signal,0.2629422796029876
+figure01_multilevel_dynamics,254989981,1,development,9,56,1.0,False,False,allocation signal,0.2533092987756753
+figure01_multilevel_dynamics,254989981,1,microbiome,9,0,0.0,False,False,growth-support guild,0.9043612568155922
+figure01_multilevel_dynamics,254989981,1,microbiome,9,1,0.016666666666666666,False,False,growth-support guild,0.9256558184163394
+figure01_multilevel_dynamics,254989981,1,microbiome,9,2,0.03333333333333333,False,False,growth-support guild,0.9333436148821929
+figure01_multilevel_dynamics,254989981,1,microbiome,9,3,0.05,False,False,growth-support guild,0.927928961564092
+figure01_multilevel_dynamics,254989981,1,microbiome,9,4,0.06666666666666667,False,False,growth-support guild,0.9296545233900682
+figure01_multilevel_dynamics,254989981,1,microbiome,9,5,0.08333333333333333,False,False,growth-support guild,0.9331480946872502
+figure01_multilevel_dynamics,254989981,1,microbiome,9,6,0.1,False,False,growth-support guild,0.9649825461018353
+figure01_multilevel_dynamics,254989981,1,microbiome,9,7,0.11666666666666667,False,False,growth-support guild,0.9571061739438157
+figure01_multilevel_dynamics,254989981,1,microbiome,9,8,0.13333333333333333,False,False,growth-support guild,0.9544061646668925
+figure01_multilevel_dynamics,254989981,1,microbiome,9,9,0.15,False,False,growth-support guild,0.9281342791062771
+figure01_multilevel_dynamics,254989981,1,microbiome,9,10,0.16666666666666666,False,False,growth-support guild,0.9264055698873624
+figure01_multilevel_dynamics,254989981,1,microbiome,9,11,0.18333333333333332,False,False,growth-support guild,0.9350062309628175
+figure01_multilevel_dynamics,254989981,1,microbiome,9,12,0.2,False,False,growth-support guild,0.9152903210154533
+figure01_multilevel_dynamics,254989981,1,microbiome,9,13,0.21666666666666667,False,False,growth-support guild,0.9208284720408024
+figure01_multilevel_dynamics,254989981,1,microbiome,9,14,0.23333333333333334,False,False,growth-support guild,0.9208961941531151
+figure01_multilevel_dynamics,254989981,1,microbiome,9,15,0.25,False,False,growth-support guild,0.9182303683760301
+figure01_multilevel_dynamics,254989981,1,microbiome,9,16,0.26666666666666666,False,False,growth-support guild,0.9340337785309347
+figure01_multilevel_dynamics,254989981,1,microbiome,9,17,0.2833333333333333,False,False,growth-support guild,0.951147109025168
+figure01_multilevel_dynamics,254989981,1,microbiome,9,18,0.3,False,False,growth-support guild,0.9713578689228447
+figure01_multilevel_dynamics,254989981,1,microbiome,9,19,0.31666666666666665,False,False,growth-support guild,0.9875080556022667
+figure01_multilevel_dynamics,254989981,1,microbiome,9,20,0.3333333333333333,False,False,growth-support guild,0.988506144917005
+figure01_multilevel_dynamics,254989981,1,microbiome,9,21,0.35,False,False,growth-support guild,1.006706416955452
+figure01_multilevel_dynamics,254989981,1,microbiome,9,22,0.36666666666666664,False,False,growth-support guild,1.0055747566003173
+figure01_multilevel_dynamics,254989981,1,microbiome,9,23,0.3833333333333333,False,False,growth-support guild,1.0243369895533458
+figure01_multilevel_dynamics,254989981,1,microbiome,9,24,0.4,False,False,growth-support guild,1.0504549383565056
+figure01_multilevel_dynamics,254989981,1,microbiome,9,25,0.4166666666666667,False,False,growth-support guild,1.0311128032219068
+figure01_multilevel_dynamics,254989981,1,microbiome,9,26,0.43333333333333335,False,False,growth-support guild,1.0354820387864887
+figure01_multilevel_dynamics,254989981,1,microbiome,9,27,0.45,False,False,growth-support guild,1.055305513730198
+figure01_multilevel_dynamics,254989981,1,microbiome,9,28,0.4666666666666667,False,False,growth-support guild,1.0510686329351753
+figure01_multilevel_dynamics,254989981,1,microbiome,9,29,0.48333333333333334,False,False,growth-support guild,1.0645263194759023
+figure01_multilevel_dynamics,254989981,1,microbiome,9,30,0.5,False,False,growth-support guild,1.0661151677280494
+figure01_multilevel_dynamics,254989981,1,microbiome,9,31,0.5166666666666666,False,False,growth-support guild,1.0731872529688966
+figure01_multilevel_dynamics,254989981,1,microbiome,9,32,0.5333333333333333,False,False,growth-support guild,1.0535923479547735
+figure01_multilevel_dynamics,254989981,1,microbiome,9,33,0.55,False,False,growth-support guild,1.0588522842501151
+figure01_multilevel_dynamics,254989981,1,microbiome,9,34,0.5666666666666667,False,False,growth-support guild,1.0576649343036335
+figure01_multilevel_dynamics,254989981,1,microbiome,9,35,0.5833333333333334,False,False,growth-support guild,1.0686039474285483
+figure01_multilevel_dynamics,254989981,1,microbiome,9,36,0.6,True,False,growth-support guild,1.0896915166709982
+figure01_multilevel_dynamics,254989981,1,microbiome,9,37,0.6166666666666667,True,False,growth-support guild,1.0919308357386406
+figure01_multilevel_dynamics,254989981,1,microbiome,9,38,0.6333333333333333,True,False,growth-support guild,1.0802785818686873
+figure01_multilevel_dynamics,254989981,1,microbiome,9,39,0.65,True,False,growth-support guild,1.0802644120417897
+figure01_multilevel_dynamics,254989981,1,microbiome,9,40,0.6666666666666666,True,False,growth-support guild,1.0576662600286546
+figure01_multilevel_dynamics,254989981,1,microbiome,9,41,0.6833333333333333,True,False,growth-support guild,1.057607698638309
+figure01_multilevel_dynamics,254989981,1,microbiome,9,42,0.7,True,False,growth-support guild,1.0674918516807737
+figure01_multilevel_dynamics,254989981,1,microbiome,9,43,0.7166666666666667,True,False,growth-support guild,1.0782453721331646
+figure01_multilevel_dynamics,254989981,1,microbiome,9,44,0.7333333333333333,True,False,growth-support guild,1.0964715622397363
+figure01_multilevel_dynamics,254989981,1,microbiome,9,45,0.75,True,True,growth-support guild,1.12706595712006
+figure01_multilevel_dynamics,254989981,1,microbiome,9,46,0.7666666666666666,False,False,growth-support guild,1.1085663635841405
+figure01_multilevel_dynamics,254989981,1,microbiome,9,47,0.7833333333333333,False,False,growth-support guild,1.1348388161369072
+figure01_multilevel_dynamics,254989981,1,microbiome,9,48,0.8,False,False,growth-support guild,1.1349719253240225
+figure01_multilevel_dynamics,254989981,1,microbiome,9,49,0.8166666666666667,False,False,growth-support guild,1.1211474240245454
+figure01_multilevel_dynamics,254989981,1,microbiome,9,50,0.8333333333333334,False,False,growth-support guild,1.1082903890402307
+figure01_multilevel_dynamics,254989981,1,microbiome,9,51,0.85,False,False,growth-support guild,1.104822386560574
+figure01_multilevel_dynamics,254989981,1,microbiome,9,52,0.8666666666666667,False,False,growth-support guild,1.1002222808007698
+figure01_multilevel_dynamics,254989981,1,microbiome,9,53,0.8833333333333333,False,False,growth-support guild,1.071848150646005
+figure01_multilevel_dynamics,254989981,1,microbiome,9,54,0.9,False,False,growth-support guild,1.0661502919306307
+figure01_multilevel_dynamics,254989981,1,microbiome,9,55,0.9166666666666666,False,False,growth-support guild,1.063353330380895
+figure01_multilevel_dynamics,254989981,1,microbiome,9,56,0.9333333333333333,False,False,growth-support guild,1.0694290305476557
+figure01_multilevel_dynamics,254989981,1,microbiome,9,57,0.95,False,False,growth-support guild,1.094278814151062
+figure01_multilevel_dynamics,254989981,1,microbiome,9,58,0.9666666666666667,False,False,growth-support guild,1.0957857045150905
+figure01_multilevel_dynamics,254989981,1,microbiome,9,59,0.9833333333333333,False,False,growth-support guild,1.086269712569562
+figure01_multilevel_dynamics,254989981,1,microbiome,9,60,1.0,False,False,growth-support guild,1.067924356130386
+figure01_multilevel_dynamics,254989981,1,microbiome,9,0,0.0,False,False,fiber-fermenting guild,0.542349204301256
+figure01_multilevel_dynamics,254989981,1,microbiome,9,1,0.016666666666666666,False,False,fiber-fermenting guild,0.5495828322370525
+figure01_multilevel_dynamics,254989981,1,microbiome,9,2,0.03333333333333333,False,False,fiber-fermenting guild,0.5465319497513146
+figure01_multilevel_dynamics,254989981,1,microbiome,9,3,0.05,False,False,fiber-fermenting guild,0.547647600686263
+figure01_multilevel_dynamics,254989981,1,microbiome,9,4,0.06666666666666667,False,False,fiber-fermenting guild,0.5479732806563432
+figure01_multilevel_dynamics,254989981,1,microbiome,9,5,0.08333333333333333,False,False,fiber-fermenting guild,0.5408477297372816
+figure01_multilevel_dynamics,254989981,1,microbiome,9,6,0.1,False,False,fiber-fermenting guild,0.5446701861934391
+figure01_multilevel_dynamics,254989981,1,microbiome,9,7,0.11666666666666667,False,False,fiber-fermenting guild,0.5537971439426893
+figure01_multilevel_dynamics,254989981,1,microbiome,9,8,0.13333333333333333,False,False,fiber-fermenting guild,0.557428376649391
+figure01_multilevel_dynamics,254989981,1,microbiome,9,9,0.15,False,False,fiber-fermenting guild,0.5555752114031806
+figure01_multilevel_dynamics,254989981,1,microbiome,9,10,0.16666666666666666,False,False,fiber-fermenting guild,0.5660493086959958
+figure01_multilevel_dynamics,254989981,1,microbiome,9,11,0.18333333333333332,False,False,fiber-fermenting guild,0.5663244091989932
+figure01_multilevel_dynamics,254989981,1,microbiome,9,12,0.2,False,False,fiber-fermenting guild,0.5758446096089664
+figure01_multilevel_dynamics,254989981,1,microbiome,9,13,0.21666666666666667,False,False,fiber-fermenting guild,0.5747687282599249
+figure01_multilevel_dynamics,254989981,1,microbiome,9,14,0.23333333333333334,False,False,fiber-fermenting guild,0.5718921791990828
+figure01_multilevel_dynamics,254989981,1,microbiome,9,15,0.25,False,False,fiber-fermenting guild,0.5720503891171056
+figure01_multilevel_dynamics,254989981,1,microbiome,9,16,0.26666666666666666,False,False,fiber-fermenting guild,0.5890126089238724
+figure01_multilevel_dynamics,254989981,1,microbiome,9,17,0.2833333333333333,False,False,fiber-fermenting guild,0.5925257938621317
+figure01_multilevel_dynamics,254989981,1,microbiome,9,18,0.3,False,False,fiber-fermenting guild,0.5917612360410186
+figure01_multilevel_dynamics,254989981,1,microbiome,9,19,0.31666666666666665,False,False,fiber-fermenting guild,0.5775956651552769
+figure01_multilevel_dynamics,254989981,1,microbiome,9,20,0.3333333333333333,False,False,fiber-fermenting guild,0.5536319635526156
+figure01_multilevel_dynamics,254989981,1,microbiome,9,21,0.35,False,False,fiber-fermenting guild,0.5613201326781395
+figure01_multilevel_dynamics,254989981,1,microbiome,9,22,0.36666666666666664,False,False,fiber-fermenting guild,0.5633545261419405
+figure01_multilevel_dynamics,254989981,1,microbiome,9,23,0.3833333333333333,False,False,fiber-fermenting guild,0.55862467676359
+figure01_multilevel_dynamics,254989981,1,microbiome,9,24,0.4,False,False,fiber-fermenting guild,0.5674463141403616
+figure01_multilevel_dynamics,254989981,1,microbiome,9,25,0.4166666666666667,False,False,fiber-fermenting guild,0.5663244428141138
+figure01_multilevel_dynamics,254989981,1,microbiome,9,26,0.43333333333333335,False,False,fiber-fermenting guild,0.572074944899837
+figure01_multilevel_dynamics,254989981,1,microbiome,9,27,0.45,False,False,fiber-fermenting guild,0.5765587328945507
+figure01_multilevel_dynamics,254989981,1,microbiome,9,28,0.4666666666666667,False,False,fiber-fermenting guild,0.5789879135299603
+figure01_multilevel_dynamics,254989981,1,microbiome,9,29,0.48333333333333334,False,False,fiber-fermenting guild,0.5894926755952742
+figure01_multilevel_dynamics,254989981,1,microbiome,9,30,0.5,False,False,fiber-fermenting guild,0.5839159872295022
+figure01_multilevel_dynamics,254989981,1,microbiome,9,31,0.5166666666666666,False,False,fiber-fermenting guild,0.5797488666526432
+figure01_multilevel_dynamics,254989981,1,microbiome,9,32,0.5333333333333333,False,False,fiber-fermenting guild,0.5902509522167427
+figure01_multilevel_dynamics,254989981,1,microbiome,9,33,0.55,False,False,fiber-fermenting guild,0.5791163876154504
+figure01_multilevel_dynamics,254989981,1,microbiome,9,34,0.5666666666666667,False,False,fiber-fermenting guild,0.5840124713114545
+figure01_multilevel_dynamics,254989981,1,microbiome,9,35,0.5833333333333334,False,False,fiber-fermenting guild,0.5771063641929033
+figure01_multilevel_dynamics,254989981,1,microbiome,9,36,0.6,True,False,fiber-fermenting guild,0.5788794666604979
+figure01_multilevel_dynamics,254989981,1,microbiome,9,37,0.6166666666666667,True,False,fiber-fermenting guild,0.5922264907555035
+figure01_multilevel_dynamics,254989981,1,microbiome,9,38,0.6333333333333333,True,False,fiber-fermenting guild,0.5944320158674412
+figure01_multilevel_dynamics,254989981,1,microbiome,9,39,0.65,True,False,fiber-fermenting guild,0.5848537389308051
+figure01_multilevel_dynamics,254989981,1,microbiome,9,40,0.6666666666666666,True,False,fiber-fermenting guild,0.5888767177030436
+figure01_multilevel_dynamics,254989981,1,microbiome,9,41,0.6833333333333333,True,False,fiber-fermenting guild,0.5693636818562278
+figure01_multilevel_dynamics,254989981,1,microbiome,9,42,0.7,True,False,fiber-fermenting guild,0.5773542955235376
+figure01_multilevel_dynamics,254989981,1,microbiome,9,43,0.7166666666666667,True,False,fiber-fermenting guild,0.5616734775234571
+figure01_multilevel_dynamics,254989981,1,microbiome,9,44,0.7333333333333333,True,False,fiber-fermenting guild,0.5628093032653323
+figure01_multilevel_dynamics,254989981,1,microbiome,9,45,0.75,True,True,fiber-fermenting guild,0.5580109304801074
+figure01_multilevel_dynamics,254989981,1,microbiome,9,46,0.7666666666666666,False,False,fiber-fermenting guild,0.5643573634559572
+figure01_multilevel_dynamics,254989981,1,microbiome,9,47,0.7833333333333333,False,False,fiber-fermenting guild,0.5712086586257482
+figure01_multilevel_dynamics,254989981,1,microbiome,9,48,0.8,False,False,fiber-fermenting guild,0.572360022389295
+figure01_multilevel_dynamics,254989981,1,microbiome,9,49,0.8166666666666667,False,False,fiber-fermenting guild,0.5687635079428923
+figure01_multilevel_dynamics,254989981,1,microbiome,9,50,0.8333333333333334,False,False,fiber-fermenting guild,0.5714263283172916
+figure01_multilevel_dynamics,254989981,1,microbiome,9,51,0.85,False,False,fiber-fermenting guild,0.5777596866228919
+figure01_multilevel_dynamics,254989981,1,microbiome,9,52,0.8666666666666667,False,False,fiber-fermenting guild,0.5685300016021229
+figure01_multilevel_dynamics,254989981,1,microbiome,9,53,0.8833333333333333,False,False,fiber-fermenting guild,0.5645181290774248
+figure01_multilevel_dynamics,254989981,1,microbiome,9,54,0.9,False,False,fiber-fermenting guild,0.567983794804722
+figure01_multilevel_dynamics,254989981,1,microbiome,9,55,0.9166666666666666,False,False,fiber-fermenting guild,0.5597465368782074
+figure01_multilevel_dynamics,254989981,1,microbiome,9,56,0.9333333333333333,False,False,fiber-fermenting guild,0.5465961748166611
+figure01_multilevel_dynamics,254989981,1,microbiome,9,57,0.95,False,False,fiber-fermenting guild,0.5571682137056597
+figure01_multilevel_dynamics,254989981,1,microbiome,9,58,0.9666666666666667,False,False,fiber-fermenting guild,0.5480799657037783
+figure01_multilevel_dynamics,254989981,1,microbiome,9,59,0.9833333333333333,False,False,fiber-fermenting guild,0.5510933208360556
+figure01_multilevel_dynamics,254989981,1,microbiome,9,60,1.0,False,False,fiber-fermenting guild,0.5522089569625048
+figure01_multilevel_dynamics,254989981,1,microbiome,9,0,0.0,False,False,stress-tolerant guild,0.36765604857873296
+figure01_multilevel_dynamics,254989981,1,microbiome,9,1,0.016666666666666666,False,False,stress-tolerant guild,0.3610158586311741
+figure01_multilevel_dynamics,254989981,1,microbiome,9,2,0.03333333333333333,False,False,stress-tolerant guild,0.35432309951167407
+figure01_multilevel_dynamics,254989981,1,microbiome,9,3,0.05,False,False,stress-tolerant guild,0.35087097318371063
+figure01_multilevel_dynamics,254989981,1,microbiome,9,4,0.06666666666666667,False,False,stress-tolerant guild,0.34576491903758455
+figure01_multilevel_dynamics,254989981,1,microbiome,9,5,0.08333333333333333,False,False,stress-tolerant guild,0.3451049644481948
+figure01_multilevel_dynamics,254989981,1,microbiome,9,6,0.1,False,False,stress-tolerant guild,0.3389753612373563
+figure01_multilevel_dynamics,254989981,1,microbiome,9,7,0.11666666666666667,False,False,stress-tolerant guild,0.33828564088113844
+figure01_multilevel_dynamics,254989981,1,microbiome,9,8,0.13333333333333333,False,False,stress-tolerant guild,0.32346033482549036
+figure01_multilevel_dynamics,254989981,1,microbiome,9,9,0.15,False,False,stress-tolerant guild,0.3164348095768013
+figure01_multilevel_dynamics,254989981,1,microbiome,9,10,0.16666666666666666,False,False,stress-tolerant guild,0.3184956725975004
+figure01_multilevel_dynamics,254989981,1,microbiome,9,11,0.18333333333333332,False,False,stress-tolerant guild,0.3199173624696926
+figure01_multilevel_dynamics,254989981,1,microbiome,9,12,0.2,False,False,stress-tolerant guild,0.32690359200837577
+figure01_multilevel_dynamics,254989981,1,microbiome,9,13,0.21666666666666667,False,False,stress-tolerant guild,0.33072989740821723
+figure01_multilevel_dynamics,254989981,1,microbiome,9,14,0.23333333333333334,False,False,stress-tolerant guild,0.3239971052703371
+figure01_multilevel_dynamics,254989981,1,microbiome,9,15,0.25,False,False,stress-tolerant guild,0.31703237849333255
+figure01_multilevel_dynamics,254989981,1,microbiome,9,16,0.26666666666666666,False,False,stress-tolerant guild,0.3159635784262023
+figure01_multilevel_dynamics,254989981,1,microbiome,9,17,0.2833333333333333,False,False,stress-tolerant guild,0.32581724845185983
+figure01_multilevel_dynamics,254989981,1,microbiome,9,18,0.3,False,False,stress-tolerant guild,0.33136555382624494
+figure01_multilevel_dynamics,254989981,1,microbiome,9,19,0.31666666666666665,False,False,stress-tolerant guild,0.32921005044589613
+figure01_multilevel_dynamics,254989981,1,microbiome,9,20,0.3333333333333333,False,False,stress-tolerant guild,0.3283429685428713
+figure01_multilevel_dynamics,254989981,1,microbiome,9,21,0.35,False,False,stress-tolerant guild,0.32643346789920247
+figure01_multilevel_dynamics,254989981,1,microbiome,9,22,0.36666666666666664,False,False,stress-tolerant guild,0.3210952895203419
+figure01_multilevel_dynamics,254989981,1,microbiome,9,23,0.3833333333333333,False,False,stress-tolerant guild,0.3279812416328
+figure01_multilevel_dynamics,254989981,1,microbiome,9,24,0.4,False,False,stress-tolerant guild,0.32679634590830187
+figure01_multilevel_dynamics,254989981,1,microbiome,9,25,0.4166666666666667,False,False,stress-tolerant guild,0.3192603384743926
+figure01_multilevel_dynamics,254989981,1,microbiome,9,26,0.43333333333333335,False,False,stress-tolerant guild,0.3126544838892389
+figure01_multilevel_dynamics,254989981,1,microbiome,9,27,0.45,False,False,stress-tolerant guild,0.3103556642221797
+figure01_multilevel_dynamics,254989981,1,microbiome,9,28,0.4666666666666667,False,False,stress-tolerant guild,0.3081746095185081
+figure01_multilevel_dynamics,254989981,1,microbiome,9,29,0.48333333333333334,False,False,stress-tolerant guild,0.31044698577118895
+figure01_multilevel_dynamics,254989981,1,microbiome,9,30,0.5,False,False,stress-tolerant guild,0.30440284227202324
+figure01_multilevel_dynamics,254989981,1,microbiome,9,31,0.5166666666666666,False,False,stress-tolerant guild,0.3036009595033738
+figure01_multilevel_dynamics,254989981,1,microbiome,9,32,0.5333333333333333,False,False,stress-tolerant guild,0.30905905159202174
+figure01_multilevel_dynamics,254989981,1,microbiome,9,33,0.55,False,False,stress-tolerant guild,0.3012121283895699
+figure01_multilevel_dynamics,254989981,1,microbiome,9,34,0.5666666666666667,False,False,stress-tolerant guild,0.30379366227441
+figure01_multilevel_dynamics,254989981,1,microbiome,9,35,0.5833333333333334,False,False,stress-tolerant guild,0.2864958016853362
+figure01_multilevel_dynamics,254989981,1,microbiome,9,36,0.6,True,False,stress-tolerant guild,0.28782711184006715
+figure01_multilevel_dynamics,254989981,1,microbiome,9,37,0.6166666666666667,True,False,stress-tolerant guild,0.2934576146625348
+figure01_multilevel_dynamics,254989981,1,microbiome,9,38,0.6333333333333333,True,False,stress-tolerant guild,0.28977986903963565
+figure01_multilevel_dynamics,254989981,1,microbiome,9,39,0.65,True,False,stress-tolerant guild,0.2884261924146899
+figure01_multilevel_dynamics,254989981,1,microbiome,9,40,0.6666666666666666,True,False,stress-tolerant guild,0.28586702343676146
+figure01_multilevel_dynamics,254989981,1,microbiome,9,41,0.6833333333333333,True,False,stress-tolerant guild,0.2838628678468893
+figure01_multilevel_dynamics,254989981,1,microbiome,9,42,0.7,True,False,stress-tolerant guild,0.2809566524002749
+figure01_multilevel_dynamics,254989981,1,microbiome,9,43,0.7166666666666667,True,False,stress-tolerant guild,0.2864580085895427
+figure01_multilevel_dynamics,254989981,1,microbiome,9,44,0.7333333333333333,True,False,stress-tolerant guild,0.28773966673002216
+figure01_multilevel_dynamics,254989981,1,microbiome,9,45,0.75,True,True,stress-tolerant guild,0.2929544075325992
+figure01_multilevel_dynamics,254989981,1,microbiome,9,46,0.7666666666666666,False,False,stress-tolerant guild,0.2881560743989007
+figure01_multilevel_dynamics,254989981,1,microbiome,9,47,0.7833333333333333,False,False,stress-tolerant guild,0.2869144300398502
+figure01_multilevel_dynamics,254989981,1,microbiome,9,48,0.8,False,False,stress-tolerant guild,0.2791174353808796
+figure01_multilevel_dynamics,254989981,1,microbiome,9,49,0.8166666666666667,False,False,stress-tolerant guild,0.27846317887098315
+figure01_multilevel_dynamics,254989981,1,microbiome,9,50,0.8333333333333334,False,False,stress-tolerant guild,0.273819195063353
+figure01_multilevel_dynamics,254989981,1,microbiome,9,51,0.85,False,False,stress-tolerant guild,0.2696532897212586
+figure01_multilevel_dynamics,254989981,1,microbiome,9,52,0.8666666666666667,False,False,stress-tolerant guild,0.2634880029720684
+figure01_multilevel_dynamics,254989981,1,microbiome,9,53,0.8833333333333333,False,False,stress-tolerant guild,0.2637839877952934
+figure01_multilevel_dynamics,254989981,1,microbiome,9,54,0.9,False,False,stress-tolerant guild,0.2503388357832679
+figure01_multilevel_dynamics,254989981,1,microbiome,9,55,0.9166666666666666,False,False,stress-tolerant guild,0.25763171362474707
+figure01_multilevel_dynamics,254989981,1,microbiome,9,56,0.9333333333333333,False,False,stress-tolerant guild,0.25645829907128886
+figure01_multilevel_dynamics,254989981,1,microbiome,9,57,0.95,False,False,stress-tolerant guild,0.26178015603036
+figure01_multilevel_dynamics,254989981,1,microbiome,9,58,0.9666666666666667,False,False,stress-tolerant guild,0.26731796772884414
+figure01_multilevel_dynamics,254989981,1,microbiome,9,59,0.9833333333333333,False,False,stress-tolerant guild,0.2614854711665932
+figure01_multilevel_dynamics,254989981,1,microbiome,9,60,1.0,False,False,stress-tolerant guild,0.26205601995453104
+figure01_multilevel_dynamics,254989981,1,microbiome,9,0,0.0,False,False,opportunist guild,0.29600421919022996
+figure01_multilevel_dynamics,254989981,1,microbiome,9,1,0.016666666666666666,False,False,opportunist guild,0.2933974587908207
+figure01_multilevel_dynamics,254989981,1,microbiome,9,2,0.03333333333333333,False,False,opportunist guild,0.29906196259925727
+figure01_multilevel_dynamics,254989981,1,microbiome,9,3,0.05,False,False,opportunist guild,0.30058904710685347
+figure01_multilevel_dynamics,254989981,1,microbiome,9,4,0.06666666666666667,False,False,opportunist guild,0.2968988600829192
+figure01_multilevel_dynamics,254989981,1,microbiome,9,5,0.08333333333333333,False,False,opportunist guild,0.3000745047914839
+figure01_multilevel_dynamics,254989981,1,microbiome,9,6,0.1,False,False,opportunist guild,0.29720105188931467
+figure01_multilevel_dynamics,254989981,1,microbiome,9,7,0.11666666666666667,False,False,opportunist guild,0.30078892038741667
+figure01_multilevel_dynamics,254989981,1,microbiome,9,8,0.13333333333333333,False,False,opportunist guild,0.30451142361277167
+figure01_multilevel_dynamics,254989981,1,microbiome,9,9,0.15,False,False,opportunist guild,0.3156653373646176
+figure01_multilevel_dynamics,254989981,1,microbiome,9,10,0.16666666666666666,False,False,opportunist guild,0.30038366055920185
+figure01_multilevel_dynamics,254989981,1,microbiome,9,11,0.18333333333333332,False,False,opportunist guild,0.3006163584002915
+figure01_multilevel_dynamics,254989981,1,microbiome,9,12,0.2,False,False,opportunist guild,0.2995622363121543
+figure01_multilevel_dynamics,254989981,1,microbiome,9,13,0.21666666666666667,False,False,opportunist guild,0.30342216253848675
+figure01_multilevel_dynamics,254989981,1,microbiome,9,14,0.23333333333333334,False,False,opportunist guild,0.29788065752615256
+figure01_multilevel_dynamics,254989981,1,microbiome,9,15,0.25,False,False,opportunist guild,0.29825737139933445
+figure01_multilevel_dynamics,254989981,1,microbiome,9,16,0.26666666666666666,False,False,opportunist guild,0.2964153010652435
+figure01_multilevel_dynamics,254989981,1,microbiome,9,17,0.2833333333333333,False,False,opportunist guild,0.29402950354367763
+figure01_multilevel_dynamics,254989981,1,microbiome,9,18,0.3,False,False,opportunist guild,0.29717157912828646
+figure01_multilevel_dynamics,254989981,1,microbiome,9,19,0.31666666666666665,False,False,opportunist guild,0.287003904597357
+figure01_multilevel_dynamics,254989981,1,microbiome,9,20,0.3333333333333333,False,False,opportunist guild,0.28911755822480195
+figure01_multilevel_dynamics,254989981,1,microbiome,9,21,0.35,False,False,opportunist guild,0.2870618026321755
+figure01_multilevel_dynamics,254989981,1,microbiome,9,22,0.36666666666666664,False,False,opportunist guild,0.2873859205556517
+figure01_multilevel_dynamics,254989981,1,microbiome,9,23,0.3833333333333333,False,False,opportunist guild,0.2935628167454629
+figure01_multilevel_dynamics,254989981,1,microbiome,9,24,0.4,False,False,opportunist guild,0.2965618976439929
+figure01_multilevel_dynamics,254989981,1,microbiome,9,25,0.4166666666666667,False,False,opportunist guild,0.3027753317329264
+figure01_multilevel_dynamics,254989981,1,microbiome,9,26,0.43333333333333335,False,False,opportunist guild,0.30638494408524936
+figure01_multilevel_dynamics,254989981,1,microbiome,9,27,0.45,False,False,opportunist guild,0.306525316881141
+figure01_multilevel_dynamics,254989981,1,microbiome,9,28,0.4666666666666667,False,False,opportunist guild,0.30413688474842937
+figure01_multilevel_dynamics,254989981,1,microbiome,9,29,0.48333333333333334,False,False,opportunist guild,0.3032488921082588
+figure01_multilevel_dynamics,254989981,1,microbiome,9,30,0.5,False,False,opportunist guild,0.30809672842607755
+figure01_multilevel_dynamics,254989981,1,microbiome,9,31,0.5166666666666666,False,False,opportunist guild,0.2971655800957446
+figure01_multilevel_dynamics,254989981,1,microbiome,9,32,0.5333333333333333,False,False,opportunist guild,0.2974672232690584
+figure01_multilevel_dynamics,254989981,1,microbiome,9,33,0.55,False,False,opportunist guild,0.29410800040086454
+figure01_multilevel_dynamics,254989981,1,microbiome,9,34,0.5666666666666667,False,False,opportunist guild,0.2972915671134602
+figure01_multilevel_dynamics,254989981,1,microbiome,9,35,0.5833333333333334,False,False,opportunist guild,0.2979443632289115
+figure01_multilevel_dynamics,254989981,1,microbiome,9,36,0.6,True,False,opportunist guild,0.29797353664573306
+figure01_multilevel_dynamics,254989981,1,microbiome,9,37,0.6166666666666667,True,False,opportunist guild,0.30009911535454115
+figure01_multilevel_dynamics,254989981,1,microbiome,9,38,0.6333333333333333,True,False,opportunist guild,0.3132109736074658
+figure01_multilevel_dynamics,254989981,1,microbiome,9,39,0.65,True,False,opportunist guild,0.31982513804454077
+figure01_multilevel_dynamics,254989981,1,microbiome,9,40,0.6666666666666666,True,False,opportunist guild,0.32151506323011664
+figure01_multilevel_dynamics,254989981,1,microbiome,9,41,0.6833333333333333,True,False,opportunist guild,0.31780794401173085
+figure01_multilevel_dynamics,254989981,1,microbiome,9,42,0.7,True,False,opportunist guild,0.3121254778822992
+figure01_multilevel_dynamics,254989981,1,microbiome,9,43,0.7166666666666667,True,False,opportunist guild,0.3159109237068902
+figure01_multilevel_dynamics,254989981,1,microbiome,9,44,0.7333333333333333,True,False,opportunist guild,0.3122773052609977
+figure01_multilevel_dynamics,254989981,1,microbiome,9,45,0.75,True,True,opportunist guild,0.31001230146444403
+figure01_multilevel_dynamics,254989981,1,microbiome,9,46,0.7666666666666666,False,False,opportunist guild,0.3015877807945105
+figure01_multilevel_dynamics,254989981,1,microbiome,9,47,0.7833333333333333,False,False,opportunist guild,0.3025546374585903
+figure01_multilevel_dynamics,254989981,1,microbiome,9,48,0.8,False,False,opportunist guild,0.3038481943242949
+figure01_multilevel_dynamics,254989981,1,microbiome,9,49,0.8166666666666667,False,False,opportunist guild,0.29123163332579355
+figure01_multilevel_dynamics,254989981,1,microbiome,9,50,0.8333333333333334,False,False,opportunist guild,0.28842989622389803
+figure01_multilevel_dynamics,254989981,1,microbiome,9,51,0.85,False,False,opportunist guild,0.29112900170327066
+figure01_multilevel_dynamics,254989981,1,microbiome,9,52,0.8666666666666667,False,False,opportunist guild,0.28284899961114396
+figure01_multilevel_dynamics,254989981,1,microbiome,9,53,0.8833333333333333,False,False,opportunist guild,0.29165566195692616
+figure01_multilevel_dynamics,254989981,1,microbiome,9,54,0.9,False,False,opportunist guild,0.28716636578182836
+figure01_multilevel_dynamics,254989981,1,microbiome,9,55,0.9166666666666666,False,False,opportunist guild,0.3006174748752689
+figure01_multilevel_dynamics,254989981,1,microbiome,9,56,0.9333333333333333,False,False,opportunist guild,0.31540661044183993
+figure01_multilevel_dynamics,254989981,1,microbiome,9,57,0.95,False,False,opportunist guild,0.31651167433145616
+figure01_multilevel_dynamics,254989981,1,microbiome,9,58,0.9666666666666667,False,False,opportunist guild,0.3178698358698874
+figure01_multilevel_dynamics,254989981,1,microbiome,9,59,0.9833333333333333,False,False,opportunist guild,0.32129163593940374
+figure01_multilevel_dynamics,254989981,1,microbiome,9,60,1.0,False,False,opportunist guild,0.3220817360033339
+figure01_multilevel_dynamics,254989981,1,microbiome,9,0,0.0,False,False,cross-feeder guild,0.6290855262878429
+figure01_multilevel_dynamics,254989981,1,microbiome,9,1,0.016666666666666666,False,False,cross-feeder guild,0.6258380253666481
+figure01_multilevel_dynamics,254989981,1,microbiome,9,2,0.03333333333333333,False,False,cross-feeder guild,0.6315227961093016
+figure01_multilevel_dynamics,254989981,1,microbiome,9,3,0.05,False,False,cross-feeder guild,0.6463124524977011
+figure01_multilevel_dynamics,254989981,1,microbiome,9,4,0.06666666666666667,False,False,cross-feeder guild,0.6374236592340644
+figure01_multilevel_dynamics,254989981,1,microbiome,9,5,0.08333333333333333,False,False,cross-feeder guild,0.6302939485990161
+figure01_multilevel_dynamics,254989981,1,microbiome,9,6,0.1,False,False,cross-feeder guild,0.629558980851422
+figure01_multilevel_dynamics,254989981,1,microbiome,9,7,0.11666666666666667,False,False,cross-feeder guild,0.6230669345329143
+figure01_multilevel_dynamics,254989981,1,microbiome,9,8,0.13333333333333333,False,False,cross-feeder guild,0.6291334337285931
+figure01_multilevel_dynamics,254989981,1,microbiome,9,9,0.15,False,False,cross-feeder guild,0.6191325963455803
+figure01_multilevel_dynamics,254989981,1,microbiome,9,10,0.16666666666666666,False,False,cross-feeder guild,0.6057153010490419
+figure01_multilevel_dynamics,254989981,1,microbiome,9,11,0.18333333333333332,False,False,cross-feeder guild,0.6048234326493407
+figure01_multilevel_dynamics,254989981,1,microbiome,9,12,0.2,False,False,cross-feeder guild,0.6131028704800382
+figure01_multilevel_dynamics,254989981,1,microbiome,9,13,0.21666666666666667,False,False,cross-feeder guild,0.6214039942393805
+figure01_multilevel_dynamics,254989981,1,microbiome,9,14,0.23333333333333334,False,False,cross-feeder guild,0.6204066571089424
+figure01_multilevel_dynamics,254989981,1,microbiome,9,15,0.25,False,False,cross-feeder guild,0.6213098795972821
+figure01_multilevel_dynamics,254989981,1,microbiome,9,16,0.26666666666666666,False,False,cross-feeder guild,0.6216227788095066
+figure01_multilevel_dynamics,254989981,1,microbiome,9,17,0.2833333333333333,False,False,cross-feeder guild,0.6239127704801143
+figure01_multilevel_dynamics,254989981,1,microbiome,9,18,0.3,False,False,cross-feeder guild,0.6226086056342355
+figure01_multilevel_dynamics,254989981,1,microbiome,9,19,0.31666666666666665,False,False,cross-feeder guild,0.6101553877857986
+figure01_multilevel_dynamics,254989981,1,microbiome,9,20,0.3333333333333333,False,False,cross-feeder guild,0.6100598093513379
+figure01_multilevel_dynamics,254989981,1,microbiome,9,21,0.35,False,False,cross-feeder guild,0.6250971870742046
+figure01_multilevel_dynamics,254989981,1,microbiome,9,22,0.36666666666666664,False,False,cross-feeder guild,0.6124783555187693
+figure01_multilevel_dynamics,254989981,1,microbiome,9,23,0.3833333333333333,False,False,cross-feeder guild,0.6032089224559171
+figure01_multilevel_dynamics,254989981,1,microbiome,9,24,0.4,False,False,cross-feeder guild,0.6150566556179216
+figure01_multilevel_dynamics,254989981,1,microbiome,9,25,0.4166666666666667,False,False,cross-feeder guild,0.6220775590429506
+figure01_multilevel_dynamics,254989981,1,microbiome,9,26,0.43333333333333335,False,False,cross-feeder guild,0.6280027772417955
+figure01_multilevel_dynamics,254989981,1,microbiome,9,27,0.45,False,False,cross-feeder guild,0.6236863413182145
+figure01_multilevel_dynamics,254989981,1,microbiome,9,28,0.4666666666666667,False,False,cross-feeder guild,0.6270569275353558
+figure01_multilevel_dynamics,254989981,1,microbiome,9,29,0.48333333333333334,False,False,cross-feeder guild,0.6110775427720478
+figure01_multilevel_dynamics,254989981,1,microbiome,9,30,0.5,False,False,cross-feeder guild,0.6082161762854486
+figure01_multilevel_dynamics,254989981,1,microbiome,9,31,0.5166666666666666,False,False,cross-feeder guild,0.6299731177518768
+figure01_multilevel_dynamics,254989981,1,microbiome,9,32,0.5333333333333333,False,False,cross-feeder guild,0.6313672140713343
+figure01_multilevel_dynamics,254989981,1,microbiome,9,33,0.55,False,False,cross-feeder guild,0.6329518369582076
+figure01_multilevel_dynamics,254989981,1,microbiome,9,34,0.5666666666666667,False,False,cross-feeder guild,0.6402402110698331
+figure01_multilevel_dynamics,254989981,1,microbiome,9,35,0.5833333333333334,False,False,cross-feeder guild,0.6544152675116903
+figure01_multilevel_dynamics,254989981,1,microbiome,9,36,0.6,True,False,cross-feeder guild,0.6538736330875426
+figure01_multilevel_dynamics,254989981,1,microbiome,9,37,0.6166666666666667,True,False,cross-feeder guild,0.6648423241141075
+figure01_multilevel_dynamics,254989981,1,microbiome,9,38,0.6333333333333333,True,False,cross-feeder guild,0.6649409035281761
+figure01_multilevel_dynamics,254989981,1,microbiome,9,39,0.65,True,False,cross-feeder guild,0.6685912557354865
+figure01_multilevel_dynamics,254989981,1,microbiome,9,40,0.6666666666666666,True,False,cross-feeder guild,0.6664263404109924
+figure01_multilevel_dynamics,254989981,1,microbiome,9,41,0.6833333333333333,True,False,cross-feeder guild,0.661238057168432
+figure01_multilevel_dynamics,254989981,1,microbiome,9,42,0.7,True,False,cross-feeder guild,0.6752286019428587
+figure01_multilevel_dynamics,254989981,1,microbiome,9,43,0.7166666666666667,True,False,cross-feeder guild,0.6732685141475121
+figure01_multilevel_dynamics,254989981,1,microbiome,9,44,0.7333333333333333,True,False,cross-feeder guild,0.6754016657065454
+figure01_multilevel_dynamics,254989981,1,microbiome,9,45,0.75,True,True,cross-feeder guild,0.6833477453466336
+figure01_multilevel_dynamics,254989981,1,microbiome,9,46,0.7666666666666666,False,False,cross-feeder guild,0.6723509680659339
+figure01_multilevel_dynamics,254989981,1,microbiome,9,47,0.7833333333333333,False,False,cross-feeder guild,0.682243165604814
+figure01_multilevel_dynamics,254989981,1,microbiome,9,48,0.8,False,False,cross-feeder guild,0.6873404553978086
+figure01_multilevel_dynamics,254989981,1,microbiome,9,49,0.8166666666666667,False,False,cross-feeder guild,0.6882557430775262
+figure01_multilevel_dynamics,254989981,1,microbiome,9,50,0.8333333333333334,False,False,cross-feeder guild,0.7013177046554482
+figure01_multilevel_dynamics,254989981,1,microbiome,9,51,0.85,False,False,cross-feeder guild,0.7179971513715154
+figure01_multilevel_dynamics,254989981,1,microbiome,9,52,0.8666666666666667,False,False,cross-feeder guild,0.7188555841073346
+figure01_multilevel_dynamics,254989981,1,microbiome,9,53,0.8833333333333333,False,False,cross-feeder guild,0.7203664842792185
+figure01_multilevel_dynamics,254989981,1,microbiome,9,54,0.9,False,False,cross-feeder guild,0.713714779000225
+figure01_multilevel_dynamics,254989981,1,microbiome,9,55,0.9166666666666666,False,False,cross-feeder guild,0.7186764759829498
+figure01_multilevel_dynamics,254989981,1,microbiome,9,56,0.9333333333333333,False,False,cross-feeder guild,0.7268595822978315
+figure01_multilevel_dynamics,254989981,1,microbiome,9,57,0.95,False,False,cross-feeder guild,0.7256749217386886
+figure01_multilevel_dynamics,254989981,1,microbiome,9,58,0.9666666666666667,False,False,cross-feeder guild,0.735394813877844
+figure01_multilevel_dynamics,254989981,1,microbiome,9,59,0.9833333333333333,False,False,cross-feeder guild,0.7315194022943893
+figure01_multilevel_dynamics,254989981,1,microbiome,9,60,1.0,False,False,cross-feeder guild,0.7190286214063367
+figure01_multilevel_dynamics,254989981,1,life_history,9,0,0.0,False,False,maturation progress,0.2631117461013433
+figure01_multilevel_dynamics,254989981,1,life_history,9,1,0.025,False,False,maturation progress,0.28032377532559255
+figure01_multilevel_dynamics,254989981,1,life_history,9,2,0.05,False,False,maturation progress,0.2974600921499474
+figure01_multilevel_dynamics,254989981,1,life_history,9,3,0.07500000000000001,False,False,maturation progress,0.3254303325949249
+figure01_multilevel_dynamics,254989981,1,life_history,9,4,0.1,False,False,maturation progress,0.3489881777453197
+figure01_multilevel_dynamics,254989981,1,life_history,9,5,0.125,False,False,maturation progress,0.3691416700918861
+figure01_multilevel_dynamics,254989981,1,life_history,9,6,0.15000000000000002,False,False,maturation progress,0.387169053718869
+figure01_multilevel_dynamics,254989981,1,life_history,9,7,0.17500000000000002,False,False,maturation progress,0.3985604503874959
+figure01_multilevel_dynamics,254989981,1,life_history,9,8,0.2,False,False,maturation progress,0.42066298955512943
+figure01_multilevel_dynamics,254989981,1,life_history,9,9,0.225,False,False,maturation progress,0.44324754341483136
+figure01_multilevel_dynamics,254989981,1,life_history,9,10,0.25,False,False,maturation progress,0.4637803581840674
+figure01_multilevel_dynamics,254989981,1,life_history,9,11,0.275,False,False,maturation progress,0.4780395193018941
+figure01_multilevel_dynamics,254989981,1,life_history,9,12,0.30000000000000004,False,False,maturation progress,0.502439324262156
+figure01_multilevel_dynamics,254989981,1,life_history,9,13,0.325,False,False,maturation progress,0.5242107455124124
+figure01_multilevel_dynamics,254989981,1,life_history,9,14,0.35000000000000003,False,False,maturation progress,0.5460210153712928
+figure01_multilevel_dynamics,254989981,1,life_history,9,15,0.375,False,False,maturation progress,0.5718389036730687
+figure01_multilevel_dynamics,254989981,1,life_history,9,16,0.4,False,False,maturation progress,0.582626989787486
+figure01_multilevel_dynamics,254989981,1,life_history,9,17,0.42500000000000004,False,False,maturation progress,0.6044451744681991
+figure01_multilevel_dynamics,254989981,1,life_history,9,18,0.45,False,False,maturation progress,0.6220518445552549
+figure01_multilevel_dynamics,254989981,1,life_history,9,19,0.47500000000000003,False,False,maturation progress,0.6370756960950489
+figure01_multilevel_dynamics,254989981,1,life_history,9,20,0.5,True,False,maturation progress,0.6522884639036018
+figure01_multilevel_dynamics,254989981,1,life_history,9,21,0.525,True,False,maturation progress,0.6645208992668453
+figure01_multilevel_dynamics,254989981,1,life_history,9,22,0.55,True,False,maturation progress,0.6736734565991135
+figure01_multilevel_dynamics,254989981,1,life_history,9,23,0.5750000000000001,True,False,maturation progress,0.6808979490214802
+figure01_multilevel_dynamics,254989981,1,life_history,9,24,0.6000000000000001,True,False,maturation progress,0.6964533674540501
+figure01_multilevel_dynamics,254989981,1,life_history,9,25,0.625,False,False,maturation progress,0.7114719485365373
+figure01_multilevel_dynamics,254989981,1,life_history,9,26,0.65,False,False,maturation progress,0.7206850005636645
+figure01_multilevel_dynamics,254989981,1,life_history,9,27,0.675,False,False,maturation progress,0.7273339471035036
+figure01_multilevel_dynamics,254989981,1,life_history,9,28,0.7000000000000001,False,False,maturation progress,0.7386222862226951
+figure01_multilevel_dynamics,254989981,1,life_history,9,29,0.7250000000000001,False,False,maturation progress,0.7431817732457285
+figure01_multilevel_dynamics,254989981,1,life_history,9,30,0.75,False,True,maturation progress,0.7450617197356013
+figure01_multilevel_dynamics,254989981,1,life_history,9,31,0.775,False,False,maturation progress,0.7568711916954663
+figure01_multilevel_dynamics,254989981,1,life_history,9,32,0.8,False,False,maturation progress,0.7604463109575885
+figure01_multilevel_dynamics,254989981,1,life_history,9,33,0.8250000000000001,False,False,maturation progress,0.7635714239353201
+figure01_multilevel_dynamics,254989981,1,life_history,9,34,0.8500000000000001,False,False,maturation progress,0.7620392082922272
+figure01_multilevel_dynamics,254989981,1,life_history,9,35,0.875,False,False,maturation progress,0.7665386444657615
+figure01_multilevel_dynamics,254989981,1,life_history,9,36,0.9,False,False,maturation progress,0.7643916922193027
+figure01_multilevel_dynamics,254989981,1,life_history,9,37,0.925,False,False,maturation progress,0.7679533007036002
+figure01_multilevel_dynamics,254989981,1,life_history,9,38,0.9500000000000001,False,False,maturation progress,0.7728157320075923
+figure01_multilevel_dynamics,254989981,1,life_history,9,39,0.9750000000000001,False,False,maturation progress,0.7776156567197696
+figure01_multilevel_dynamics,254989981,1,life_history,9,40,1.0,False,False,maturation progress,0.7792695021872703
+figure01_multilevel_dynamics,254989981,1,life_history,9,0,0.0,False,False,growth capacity,0.4840169900345658
+figure01_multilevel_dynamics,254989981,1,life_history,9,1,0.025,False,False,growth capacity,0.4933112373192338
+figure01_multilevel_dynamics,254989981,1,life_history,9,2,0.05,False,False,growth capacity,0.4989028205691804
+figure01_multilevel_dynamics,254989981,1,life_history,9,3,0.07500000000000001,False,False,growth capacity,0.5011027764548327
+figure01_multilevel_dynamics,254989981,1,life_history,9,4,0.1,False,False,growth capacity,0.5143336907091869
+figure01_multilevel_dynamics,254989981,1,life_history,9,5,0.125,False,False,growth capacity,0.5259245550250511
+figure01_multilevel_dynamics,254989981,1,life_history,9,6,0.15000000000000002,False,False,growth capacity,0.5307908323598437
+figure01_multilevel_dynamics,254989981,1,life_history,9,7,0.17500000000000002,False,False,growth capacity,0.541468120248826
+figure01_multilevel_dynamics,254989981,1,life_history,9,8,0.2,False,False,growth capacity,0.5470573095546992
+figure01_multilevel_dynamics,254989981,1,life_history,9,9,0.225,False,False,growth capacity,0.5549522143366
+figure01_multilevel_dynamics,254989981,1,life_history,9,10,0.25,False,False,growth capacity,0.5608627254118254
+figure01_multilevel_dynamics,254989981,1,life_history,9,11,0.275,False,False,growth capacity,0.5795651740058841
+figure01_multilevel_dynamics,254989981,1,life_history,9,12,0.30000000000000004,False,False,growth capacity,0.5887117205028005
+figure01_multilevel_dynamics,254989981,1,life_history,9,13,0.325,False,False,growth capacity,0.5976827167761226
+figure01_multilevel_dynamics,254989981,1,life_history,9,14,0.35000000000000003,False,False,growth capacity,0.6091238788094221
+figure01_multilevel_dynamics,254989981,1,life_history,9,15,0.375,False,False,growth capacity,0.6113112631849522
+figure01_multilevel_dynamics,254989981,1,life_history,9,16,0.4,False,False,growth capacity,0.6244662557327173
+figure01_multilevel_dynamics,254989981,1,life_history,9,17,0.42500000000000004,False,False,growth capacity,0.638622643181376
+figure01_multilevel_dynamics,254989981,1,life_history,9,18,0.45,False,False,growth capacity,0.6480511054226357
+figure01_multilevel_dynamics,254989981,1,life_history,9,19,0.47500000000000003,False,False,growth capacity,0.6555146186499947
+figure01_multilevel_dynamics,254989981,1,life_history,9,20,0.5,True,False,growth capacity,0.663549169634601
+figure01_multilevel_dynamics,254989981,1,life_history,9,21,0.525,True,False,growth capacity,0.6705770969223694
+figure01_multilevel_dynamics,254989981,1,life_history,9,22,0.55,True,False,growth capacity,0.6774555739285906
+figure01_multilevel_dynamics,254989981,1,life_history,9,23,0.5750000000000001,True,False,growth capacity,0.6802055648013272
+figure01_multilevel_dynamics,254989981,1,life_history,9,24,0.6000000000000001,True,False,growth capacity,0.6906644285923954
+figure01_multilevel_dynamics,254989981,1,life_history,9,25,0.625,False,False,growth capacity,0.7001914024515437
+figure01_multilevel_dynamics,254989981,1,life_history,9,26,0.65,False,False,growth capacity,0.704896074745073
+figure01_multilevel_dynamics,254989981,1,life_history,9,27,0.675,False,False,growth capacity,0.7169027143308669
+figure01_multilevel_dynamics,254989981,1,life_history,9,28,0.7000000000000001,False,False,growth capacity,0.7205053968994659
+figure01_multilevel_dynamics,254989981,1,life_history,9,29,0.7250000000000001,False,False,growth capacity,0.7165979849685415
+figure01_multilevel_dynamics,254989981,1,life_history,9,30,0.75,False,True,growth capacity,0.7189908757435556
+figure01_multilevel_dynamics,254989981,1,life_history,9,31,0.775,False,False,growth capacity,0.7174787788587337
+figure01_multilevel_dynamics,254989981,1,life_history,9,32,0.8,False,False,growth capacity,0.7146269187787383
+figure01_multilevel_dynamics,254989981,1,life_history,9,33,0.8250000000000001,False,False,growth capacity,0.7153633008255097
+figure01_multilevel_dynamics,254989981,1,life_history,9,34,0.8500000000000001,False,False,growth capacity,0.7137151369890352
+figure01_multilevel_dynamics,254989981,1,life_history,9,35,0.875,False,False,growth capacity,0.7121279761151834
+figure01_multilevel_dynamics,254989981,1,life_history,9,36,0.9,False,False,growth capacity,0.7089928208430593
+figure01_multilevel_dynamics,254989981,1,life_history,9,37,0.925,False,False,growth capacity,0.7066963724990827
+figure01_multilevel_dynamics,254989981,1,life_history,9,38,0.9500000000000001,False,False,growth capacity,0.7037435724800395
+figure01_multilevel_dynamics,254989981,1,life_history,9,39,0.9750000000000001,False,False,growth capacity,0.6937663954440355
+figure01_multilevel_dynamics,254989981,1,life_history,9,40,1.0,False,False,growth capacity,0.681971756941764
+figure01_multilevel_dynamics,254989981,1,life_history,9,0,0.0,False,False,reproductive allocation,0.2411033741555724
+figure01_multilevel_dynamics,254989981,1,life_history,9,1,0.025,False,False,reproductive allocation,0.2453899515981661
+figure01_multilevel_dynamics,254989981,1,life_history,9,2,0.05,False,False,reproductive allocation,0.25334125663947854
+figure01_multilevel_dynamics,254989981,1,life_history,9,3,0.07500000000000001,False,False,reproductive allocation,0.2647322310903652
+figure01_multilevel_dynamics,254989981,1,life_history,9,4,0.1,False,False,reproductive allocation,0.26773838293368396
+figure01_multilevel_dynamics,254989981,1,life_history,9,5,0.125,False,False,reproductive allocation,0.28195651600711963
+figure01_multilevel_dynamics,254989981,1,life_history,9,6,0.15000000000000002,False,False,reproductive allocation,0.29399118770233634
+figure01_multilevel_dynamics,254989981,1,life_history,9,7,0.17500000000000002,False,False,reproductive allocation,0.29354316257120217
+figure01_multilevel_dynamics,254989981,1,life_history,9,8,0.2,False,False,reproductive allocation,0.3047778394395012
+figure01_multilevel_dynamics,254989981,1,life_history,9,9,0.225,False,False,reproductive allocation,0.30669870963533297
+figure01_multilevel_dynamics,254989981,1,life_history,9,10,0.25,False,False,reproductive allocation,0.3100197682540805
+figure01_multilevel_dynamics,254989981,1,life_history,9,11,0.275,False,False,reproductive allocation,0.31323177273567865
+figure01_multilevel_dynamics,254989981,1,life_history,9,12,0.30000000000000004,False,False,reproductive allocation,0.32202314422553413
+figure01_multilevel_dynamics,254989981,1,life_history,9,13,0.325,False,False,reproductive allocation,0.3364472055235931
+figure01_multilevel_dynamics,254989981,1,life_history,9,14,0.35000000000000003,False,False,reproductive allocation,0.33722098581992593
+figure01_multilevel_dynamics,254989981,1,life_history,9,15,0.375,False,False,reproductive allocation,0.3432986403965925
+figure01_multilevel_dynamics,254989981,1,life_history,9,16,0.4,False,False,reproductive allocation,0.3611420667951792
+figure01_multilevel_dynamics,254989981,1,life_history,9,17,0.42500000000000004,False,False,reproductive allocation,0.3726662255492166
+figure01_multilevel_dynamics,254989981,1,life_history,9,18,0.45,False,False,reproductive allocation,0.37391806768341346
+figure01_multilevel_dynamics,254989981,1,life_history,9,19,0.47500000000000003,False,False,reproductive allocation,0.3853725671070466
+figure01_multilevel_dynamics,254989981,1,life_history,9,20,0.5,True,False,reproductive allocation,0.38247064821178683
+figure01_multilevel_dynamics,254989981,1,life_history,9,21,0.525,True,False,reproductive allocation,0.40598943813106264
+figure01_multilevel_dynamics,254989981,1,life_history,9,22,0.55,True,False,reproductive allocation,0.42818815173816216
+figure01_multilevel_dynamics,254989981,1,life_history,9,23,0.5750000000000001,True,False,reproductive allocation,0.43743353820426695
+figure01_multilevel_dynamics,254989981,1,life_history,9,24,0.6000000000000001,True,False,reproductive allocation,0.4473681797682476
+figure01_multilevel_dynamics,254989981,1,life_history,9,25,0.625,False,False,reproductive allocation,0.461718002998936
+figure01_multilevel_dynamics,254989981,1,life_history,9,26,0.65,False,False,reproductive allocation,0.4722473687063297
+figure01_multilevel_dynamics,254989981,1,life_history,9,27,0.675,False,False,reproductive allocation,0.48339886068381055
+figure01_multilevel_dynamics,254989981,1,life_history,9,28,0.7000000000000001,False,False,reproductive allocation,0.5079943391980122
+figure01_multilevel_dynamics,254989981,1,life_history,9,29,0.7250000000000001,False,False,reproductive allocation,0.5132424521445362
+figure01_multilevel_dynamics,254989981,1,life_history,9,30,0.75,False,True,reproductive allocation,0.5227224020108402
+figure01_multilevel_dynamics,254989981,1,life_history,9,31,0.775,False,False,reproductive allocation,0.5371011102913223
+figure01_multilevel_dynamics,254989981,1,life_history,9,32,0.8,False,False,reproductive allocation,0.5461078333444044
+figure01_multilevel_dynamics,254989981,1,life_history,9,33,0.8250000000000001,False,False,reproductive allocation,0.5527455896932807
+figure01_multilevel_dynamics,254989981,1,life_history,9,34,0.8500000000000001,False,False,reproductive allocation,0.5592867428418784
+figure01_multilevel_dynamics,254989981,1,life_history,9,35,0.875,False,False,reproductive allocation,0.5683290808143443
+figure01_multilevel_dynamics,254989981,1,life_history,9,36,0.9,False,False,reproductive allocation,0.5736787956723836
+figure01_multilevel_dynamics,254989981,1,life_history,9,37,0.925,False,False,reproductive allocation,0.5695907012730278
+figure01_multilevel_dynamics,254989981,1,life_history,9,38,0.9500000000000001,False,False,reproductive allocation,0.554466106939965
+figure01_multilevel_dynamics,254989981,1,life_history,9,39,0.9750000000000001,False,False,reproductive allocation,0.5535154656046992
+figure01_multilevel_dynamics,254989981,1,life_history,9,40,1.0,False,False,reproductive allocation,0.5541946606988181
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,0,0.0,False,False,regulatory mark variable,0.2289188574498865
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,1,0.03125,False,False,regulatory mark variable,0.24524088369229155
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,2,0.0625,False,False,regulatory mark variable,0.3218418694186605
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,3,0.09375,False,False,regulatory mark variable,0.26342402127643816
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,4,0.125,False,False,regulatory mark variable,0.25875597406043793
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,5,0.15625,False,False,regulatory mark variable,0.3271818568680854
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,6,0.1875,False,False,regulatory mark variable,0.31352032018189063
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,7,0.21875,False,False,regulatory mark variable,0.2531051177188815
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,8,0.25,False,False,regulatory mark variable,0.33760653281409214
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,9,0.28125,False,False,regulatory mark variable,0.30826452471802324
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,10,0.3125,False,False,regulatory mark variable,0.265599809450637
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,11,0.34375,False,False,regulatory mark variable,0.22563297593543827
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,12,0.375,False,False,regulatory mark variable,0.2983536352768582
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,13,0.40625,False,False,regulatory mark variable,0.19602769496826808
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,14,0.4375,False,False,regulatory mark variable,0.23227294361307022
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,15,0.46875,False,False,regulatory mark variable,0.3108618304232509
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,16,0.5,False,False,regulatory mark variable,0.3064379132899553
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,17,0.53125,False,False,regulatory mark variable,0.32325340313964424
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,18,0.5625,False,False,regulatory mark variable,0.3351350722573635
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,19,0.59375,False,False,regulatory mark variable,0.28381875937079376
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,20,0.625,True,False,regulatory mark variable,0.29176424390736466
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,21,0.65625,True,False,regulatory mark variable,0.29028170005063686
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,22,0.6875,True,False,regulatory mark variable,0.27949893208799326
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,23,0.71875,True,False,regulatory mark variable,0.31185169165894894
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,24,0.75,True,True,regulatory mark variable,0.27658651711110294
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,25,0.78125,False,False,regulatory mark variable,0.31240594561566715
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,26,0.8125,False,False,regulatory mark variable,0.3510705399354999
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,27,0.84375,False,False,regulatory mark variable,0.38060528602825
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,28,0.875,False,False,regulatory mark variable,0.3354797053416285
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,29,0.90625,False,False,regulatory mark variable,0.32418152438339354
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,30,0.9375,False,False,regulatory mark variable,0.2655221781414645
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,31,0.96875,False,False,regulatory mark variable,0.2747470759467794
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,32,1.0,False,False,regulatory mark variable,0.3514689864611795
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,0,0.0,False,False,stress-memory mark variable,-0.08181873343583329
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,1,0.03125,False,False,stress-memory mark variable,-0.0671938219214332
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,2,0.0625,False,False,stress-memory mark variable,-0.06525495935470842
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,3,0.09375,False,False,stress-memory mark variable,-0.10729433341297309
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,4,0.125,False,False,stress-memory mark variable,-0.14633490178727762
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,5,0.15625,False,False,stress-memory mark variable,-0.18463001101893364
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,6,0.1875,False,False,stress-memory mark variable,-0.20320774382736387
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,7,0.21875,False,False,stress-memory mark variable,-0.17392056788232918
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,8,0.25,False,False,stress-memory mark variable,-0.21711523627088222
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,9,0.28125,False,False,stress-memory mark variable,-0.19077182516765911
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,10,0.3125,False,False,stress-memory mark variable,-0.2903737154769058
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,11,0.34375,False,False,stress-memory mark variable,-0.25389216899469486
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,12,0.375,False,False,stress-memory mark variable,-0.16167893991886123
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,13,0.40625,False,False,stress-memory mark variable,-0.09519170174027124
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,14,0.4375,False,False,stress-memory mark variable,-0.11731758427374456
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,15,0.46875,False,False,stress-memory mark variable,-0.01896167175351437
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,16,0.5,False,False,stress-memory mark variable,0.02736159238034362
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,17,0.53125,False,False,stress-memory mark variable,0.001303809522379358
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,18,0.5625,False,False,stress-memory mark variable,-0.07686801780023196
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,19,0.59375,False,False,stress-memory mark variable,-0.14685445559731186
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,20,0.625,True,False,stress-memory mark variable,-0.17949875526869413
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,21,0.65625,True,False,stress-memory mark variable,-0.22021780421121892
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,22,0.6875,True,False,stress-memory mark variable,-0.2307237504310888
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,23,0.71875,True,False,stress-memory mark variable,-0.21434230624486372
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,24,0.75,True,True,stress-memory mark variable,-0.25083311270562036
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,25,0.78125,False,False,stress-memory mark variable,-0.265168324533792
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,26,0.8125,False,False,stress-memory mark variable,-0.2793072412878463
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,27,0.84375,False,False,stress-memory mark variable,-0.26222134923205076
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,28,0.875,False,False,stress-memory mark variable,-0.3158070400417756
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,29,0.90625,False,False,stress-memory mark variable,-0.2781361873422634
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,30,0.9375,False,False,stress-memory mark variable,-0.3643884879229069
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,31,0.96875,False,False,stress-memory mark variable,-0.3779628424287837
+figure01_multilevel_dynamics,254989981,1,epigenetic,9,32,1.0,False,False,stress-memory mark variable,-0.4063481114096278
+figure01_multilevel_dynamics,254989981,1,ecological,9,0,0.0,False,False,soil organic matter,1.2621846113707171
+figure01_multilevel_dynamics,254989981,1,ecological,9,1,0.03125,False,False,soil organic matter,1.2658987065944718
+figure01_multilevel_dynamics,254989981,1,ecological,9,2,0.0625,False,False,soil organic matter,1.2797829789745518
+figure01_multilevel_dynamics,254989981,1,ecological,9,3,0.09375,False,False,soil organic matter,1.286927431947914
+figure01_multilevel_dynamics,254989981,1,ecological,9,4,0.125,False,False,soil organic matter,1.2933507357872642
+figure01_multilevel_dynamics,254989981,1,ecological,9,5,0.15625,False,False,soil organic matter,1.2661714765433743
+figure01_multilevel_dynamics,254989981,1,ecological,9,6,0.1875,False,False,soil organic matter,1.252308621657382
+figure01_multilevel_dynamics,254989981,1,ecological,9,7,0.21875,False,False,soil organic matter,1.2377038742024487
+figure01_multilevel_dynamics,254989981,1,ecological,9,8,0.25,False,False,soil organic matter,1.2184440815764186
+figure01_multilevel_dynamics,254989981,1,ecological,9,9,0.28125,False,False,soil organic matter,1.225271592917744
+figure01_multilevel_dynamics,254989981,1,ecological,9,10,0.3125,False,False,soil organic matter,1.1986032595767155
+figure01_multilevel_dynamics,254989981,1,ecological,9,11,0.34375,False,False,soil organic matter,1.1770284205623056
+figure01_multilevel_dynamics,254989981,1,ecological,9,12,0.375,False,False,soil organic matter,1.1695332149449018
+figure01_multilevel_dynamics,254989981,1,ecological,9,13,0.40625,False,False,soil organic matter,1.1930825737302855
+figure01_multilevel_dynamics,254989981,1,ecological,9,14,0.4375,False,False,soil organic matter,1.2186314410578238
+figure01_multilevel_dynamics,254989981,1,ecological,9,15,0.46875,False,False,soil organic matter,1.2020303476688117
+figure01_multilevel_dynamics,254989981,1,ecological,9,16,0.5,False,False,soil organic matter,1.1988221241951182
+figure01_multilevel_dynamics,254989981,1,ecological,9,17,0.53125,False,False,soil organic matter,1.1905558236498
+figure01_multilevel_dynamics,254989981,1,ecological,9,18,0.5625,False,False,soil organic matter,1.187484423849731
+figure01_multilevel_dynamics,254989981,1,ecological,9,19,0.59375,False,False,soil organic matter,1.200581798873845
+figure01_multilevel_dynamics,254989981,1,ecological,9,20,0.625,True,False,soil organic matter,1.1603626572498038
+figure01_multilevel_dynamics,254989981,1,ecological,9,21,0.65625,True,False,soil organic matter,1.1752622794941903
+figure01_multilevel_dynamics,254989981,1,ecological,9,22,0.6875,True,False,soil organic matter,1.188908554927086
+figure01_multilevel_dynamics,254989981,1,ecological,9,23,0.71875,True,False,soil organic matter,1.2043244500980625
+figure01_multilevel_dynamics,254989981,1,ecological,9,24,0.75,True,True,soil organic matter,1.193070281498473
+figure01_multilevel_dynamics,254989981,1,ecological,9,25,0.78125,False,False,soil organic matter,1.1936259750326508
+figure01_multilevel_dynamics,254989981,1,ecological,9,26,0.8125,False,False,soil organic matter,1.1816651950099557
+figure01_multilevel_dynamics,254989981,1,ecological,9,27,0.84375,False,False,soil organic matter,1.2147232488658906
+figure01_multilevel_dynamics,254989981,1,ecological,9,28,0.875,False,False,soil organic matter,1.2239678804350553
+figure01_multilevel_dynamics,254989981,1,ecological,9,29,0.90625,False,False,soil organic matter,1.2788810356982856
+figure01_multilevel_dynamics,254989981,1,ecological,9,30,0.9375,False,False,soil organic matter,1.3207258890166633
+figure01_multilevel_dynamics,254989981,1,ecological,9,31,0.96875,False,False,soil organic matter,1.3171204891221946
+figure01_multilevel_dynamics,254989981,1,ecological,9,32,1.0,False,False,soil organic matter,1.3372215977040953
+figure01_multilevel_dynamics,254989981,1,ecological,9,0,0.0,False,False,food-resource enrichment,0.988049070867473
+figure01_multilevel_dynamics,254989981,1,ecological,9,1,0.03125,False,False,food-resource enrichment,1.0110303684968966
+figure01_multilevel_dynamics,254989981,1,ecological,9,2,0.0625,False,False,food-resource enrichment,1.0263944421050184
+figure01_multilevel_dynamics,254989981,1,ecological,9,3,0.09375,False,False,food-resource enrichment,1.0290637006665175
+figure01_multilevel_dynamics,254989981,1,ecological,9,4,0.125,False,False,food-resource enrichment,1.0372670254117526
+figure01_multilevel_dynamics,254989981,1,ecological,9,5,0.15625,False,False,food-resource enrichment,1.0753095182217347
+figure01_multilevel_dynamics,254989981,1,ecological,9,6,0.1875,False,False,food-resource enrichment,1.0726213204247361
+figure01_multilevel_dynamics,254989981,1,ecological,9,7,0.21875,False,False,food-resource enrichment,1.1018055075535884
+figure01_multilevel_dynamics,254989981,1,ecological,9,8,0.25,False,False,food-resource enrichment,1.0807948778655874
+figure01_multilevel_dynamics,254989981,1,ecological,9,9,0.28125,False,False,food-resource enrichment,1.0619735228747489
+figure01_multilevel_dynamics,254989981,1,ecological,9,10,0.3125,False,False,food-resource enrichment,1.0546352870328934
+figure01_multilevel_dynamics,254989981,1,ecological,9,11,0.34375,False,False,food-resource enrichment,1.044861411500742
+figure01_multilevel_dynamics,254989981,1,ecological,9,12,0.375,False,False,food-resource enrichment,1.05865380559637
+figure01_multilevel_dynamics,254989981,1,ecological,9,13,0.40625,False,False,food-resource enrichment,1.0376539718205215
+figure01_multilevel_dynamics,254989981,1,ecological,9,14,0.4375,False,False,food-resource enrichment,1.0423264703382267
+figure01_multilevel_dynamics,254989981,1,ecological,9,15,0.46875,False,False,food-resource enrichment,1.0286285572160299
+figure01_multilevel_dynamics,254989981,1,ecological,9,16,0.5,False,False,food-resource enrichment,1.068989469603808
+figure01_multilevel_dynamics,254989981,1,ecological,9,17,0.53125,False,False,food-resource enrichment,1.1079586106057502
+figure01_multilevel_dynamics,254989981,1,ecological,9,18,0.5625,False,False,food-resource enrichment,1.0873766464095225
+figure01_multilevel_dynamics,254989981,1,ecological,9,19,0.59375,False,False,food-resource enrichment,1.0589124585515939
+figure01_multilevel_dynamics,254989981,1,ecological,9,20,0.625,True,False,food-resource enrichment,1.0555579789221774
+figure01_multilevel_dynamics,254989981,1,ecological,9,21,0.65625,True,False,food-resource enrichment,1.085600410095433
+figure01_multilevel_dynamics,254989981,1,ecological,9,22,0.6875,True,False,food-resource enrichment,1.0710801733987623
+figure01_multilevel_dynamics,254989981,1,ecological,9,23,0.71875,True,False,food-resource enrichment,1.108688146871569
+figure01_multilevel_dynamics,254989981,1,ecological,9,24,0.75,True,True,food-resource enrichment,1.119341535350365
+figure01_multilevel_dynamics,254989981,1,ecological,9,25,0.78125,False,False,food-resource enrichment,1.0902005418684904
+figure01_multilevel_dynamics,254989981,1,ecological,9,26,0.8125,False,False,food-resource enrichment,1.0979993551237115
+figure01_multilevel_dynamics,254989981,1,ecological,9,27,0.84375,False,False,food-resource enrichment,1.083241357711116
+figure01_multilevel_dynamics,254989981,1,ecological,9,28,0.875,False,False,food-resource enrichment,1.0568282096185848
+figure01_multilevel_dynamics,254989981,1,ecological,9,29,0.90625,False,False,food-resource enrichment,1.0603803444332671
+figure01_multilevel_dynamics,254989981,1,ecological,9,30,0.9375,False,False,food-resource enrichment,1.03287024155754
+figure01_multilevel_dynamics,254989981,1,ecological,9,31,0.96875,False,False,food-resource enrichment,1.0237744003961788
+figure01_multilevel_dynamics,254989981,1,ecological,9,32,1.0,False,False,food-resource enrichment,1.0416690261234693
+figure01_multilevel_dynamics,254989981,1,ecological,9,0,0.0,False,False,microclimate buffering,1.0074799628305415
+figure01_multilevel_dynamics,254989981,1,ecological,9,1,0.03125,False,False,microclimate buffering,0.9896778488625383
+figure01_multilevel_dynamics,254989981,1,ecological,9,2,0.0625,False,False,microclimate buffering,0.9856447598868074
+figure01_multilevel_dynamics,254989981,1,ecological,9,3,0.09375,False,False,microclimate buffering,0.9595792142097646
+figure01_multilevel_dynamics,254989981,1,ecological,9,4,0.125,False,False,microclimate buffering,0.9422258446082822
+figure01_multilevel_dynamics,254989981,1,ecological,9,5,0.15625,False,False,microclimate buffering,0.9647221497013391
+figure01_multilevel_dynamics,254989981,1,ecological,9,6,0.1875,False,False,microclimate buffering,0.9686627376864784
+figure01_multilevel_dynamics,254989981,1,ecological,9,7,0.21875,False,False,microclimate buffering,0.9677933495691711
+figure01_multilevel_dynamics,254989981,1,ecological,9,8,0.25,False,False,microclimate buffering,0.9484910857545834
+figure01_multilevel_dynamics,254989981,1,ecological,9,9,0.28125,False,False,microclimate buffering,0.9627362789211763
+figure01_multilevel_dynamics,254989981,1,ecological,9,10,0.3125,False,False,microclimate buffering,0.9498965883730499
+figure01_multilevel_dynamics,254989981,1,ecological,9,11,0.34375,False,False,microclimate buffering,0.9099695209122404
+figure01_multilevel_dynamics,254989981,1,ecological,9,12,0.375,False,False,microclimate buffering,0.9026075428507245
+figure01_multilevel_dynamics,254989981,1,ecological,9,13,0.40625,False,False,microclimate buffering,0.899158516056584
+figure01_multilevel_dynamics,254989981,1,ecological,9,14,0.4375,False,False,microclimate buffering,0.932408290436085
+figure01_multilevel_dynamics,254989981,1,ecological,9,15,0.46875,False,False,microclimate buffering,0.8996253697603556
+figure01_multilevel_dynamics,254989981,1,ecological,9,16,0.5,False,False,microclimate buffering,0.9181956569289869
+figure01_multilevel_dynamics,254989981,1,ecological,9,17,0.53125,False,False,microclimate buffering,0.9436226970632097
+figure01_multilevel_dynamics,254989981,1,ecological,9,18,0.5625,False,False,microclimate buffering,0.9899540788449306
+figure01_multilevel_dynamics,254989981,1,ecological,9,19,0.59375,False,False,microclimate buffering,0.9825802600901304
+figure01_multilevel_dynamics,254989981,1,ecological,9,20,0.625,True,False,microclimate buffering,1.0179032444883382
+figure01_multilevel_dynamics,254989981,1,ecological,9,21,0.65625,True,False,microclimate buffering,1.0396606488335478
+figure01_multilevel_dynamics,254989981,1,ecological,9,22,0.6875,True,False,microclimate buffering,1.0257980540677267
+figure01_multilevel_dynamics,254989981,1,ecological,9,23,0.71875,True,False,microclimate buffering,1.0435279198771767
+figure01_multilevel_dynamics,254989981,1,ecological,9,24,0.75,True,True,microclimate buffering,1.058545939333573
+figure01_multilevel_dynamics,254989981,1,ecological,9,25,0.78125,False,False,microclimate buffering,1.050881964730337
+figure01_multilevel_dynamics,254989981,1,ecological,9,26,0.8125,False,False,microclimate buffering,1.0359250578089654
+figure01_multilevel_dynamics,254989981,1,ecological,9,27,0.84375,False,False,microclimate buffering,1.0322269617820226
+figure01_multilevel_dynamics,254989981,1,ecological,9,28,0.875,False,False,microclimate buffering,1.0414749985925302
+figure01_multilevel_dynamics,254989981,1,ecological,9,29,0.90625,False,False,microclimate buffering,1.06541377483702
+figure01_multilevel_dynamics,254989981,1,ecological,9,30,0.9375,False,False,microclimate buffering,1.0714686486592588
+figure01_multilevel_dynamics,254989981,1,ecological,9,31,0.96875,False,False,microclimate buffering,1.0853701941836988
+figure01_multilevel_dynamics,254989981,1,ecological,9,32,1.0,False,False,microclimate buffering,1.0937273990858123
+figure01_multilevel_dynamics,254989981,1,background,9,0,0.0,False,False,rainfall anomaly,-0.4338459137493834
+figure01_multilevel_dynamics,254989981,1,background,9,1,0.03125,False,False,rainfall anomaly,-0.4611119504411816
+figure01_multilevel_dynamics,254989981,1,background,9,2,0.0625,False,False,rainfall anomaly,-0.4502656410003048
+figure01_multilevel_dynamics,254989981,1,background,9,3,0.09375,False,False,rainfall anomaly,-0.4708408028206925
+figure01_multilevel_dynamics,254989981,1,background,9,4,0.125,False,False,rainfall anomaly,-0.5040701689706792
+figure01_multilevel_dynamics,254989981,1,background,9,5,0.15625,False,False,rainfall anomaly,-0.4397364648480059
+figure01_multilevel_dynamics,254989981,1,background,9,6,0.1875,False,False,rainfall anomaly,-0.4576897069774657
+figure01_multilevel_dynamics,254989981,1,background,9,7,0.21875,False,False,rainfall anomaly,-0.4323984026214122
+figure01_multilevel_dynamics,254989981,1,background,9,8,0.25,False,False,rainfall anomaly,-0.46962079469701207
+figure01_multilevel_dynamics,254989981,1,background,9,9,0.28125,False,False,rainfall anomaly,-0.48515773112919675
+figure01_multilevel_dynamics,254989981,1,background,9,10,0.3125,False,False,rainfall anomaly,-0.4385301366801242
+figure01_multilevel_dynamics,254989981,1,background,9,11,0.34375,False,False,rainfall anomaly,-0.39737167512426536
+figure01_multilevel_dynamics,254989981,1,background,9,12,0.375,False,False,rainfall anomaly,-0.39922485734467467
+figure01_multilevel_dynamics,254989981,1,background,9,13,0.40625,False,False,rainfall anomaly,-0.354482449134785
+figure01_multilevel_dynamics,254989981,1,background,9,14,0.4375,False,False,rainfall anomaly,-0.3649381230820704
+figure01_multilevel_dynamics,254989981,1,background,9,15,0.46875,False,False,rainfall anomaly,-0.3399151494424199
+figure01_multilevel_dynamics,254989981,1,background,9,16,0.5,False,False,rainfall anomaly,-0.3487432523877061
+figure01_multilevel_dynamics,254989981,1,background,9,17,0.53125,False,False,rainfall anomaly,-0.37941579918000173
+figure01_multilevel_dynamics,254989981,1,background,9,18,0.5625,False,False,rainfall anomaly,-0.3762065619741502
+figure01_multilevel_dynamics,254989981,1,background,9,19,0.59375,False,False,rainfall anomaly,-0.3882509692214799
+figure01_multilevel_dynamics,254989981,1,background,9,20,0.625,True,False,rainfall anomaly,-0.4098808938266427
+figure01_multilevel_dynamics,254989981,1,background,9,21,0.65625,True,False,rainfall anomaly,-0.4468227581074359
+figure01_multilevel_dynamics,254989981,1,background,9,22,0.6875,True,False,rainfall anomaly,-0.4741405156123311
+figure01_multilevel_dynamics,254989981,1,background,9,23,0.71875,True,False,rainfall anomaly,-0.448815486720293
+figure01_multilevel_dynamics,254989981,1,background,9,24,0.75,True,True,rainfall anomaly,-0.4268323277034477
+figure01_multilevel_dynamics,254989981,1,background,9,25,0.78125,False,False,rainfall anomaly,-0.41479652644853243
+figure01_multilevel_dynamics,254989981,1,background,9,26,0.8125,False,False,rainfall anomaly,-0.41928379397168686
+figure01_multilevel_dynamics,254989981,1,background,9,27,0.84375,False,False,rainfall anomaly,-0.40055949160795695
+figure01_multilevel_dynamics,254989981,1,background,9,28,0.875,False,False,rainfall anomaly,-0.4129235740752914
+figure01_multilevel_dynamics,254989981,1,background,9,29,0.90625,False,False,rainfall anomaly,-0.4208470565382251
+figure01_multilevel_dynamics,254989981,1,background,9,30,0.9375,False,False,rainfall anomaly,-0.4253081630048097
+figure01_multilevel_dynamics,254989981,1,background,9,31,0.96875,False,False,rainfall anomaly,-0.41210790479475623
+figure01_multilevel_dynamics,254989981,1,background,9,32,1.0,False,False,rainfall anomaly,-0.4378398038530323
+figure01_multilevel_dynamics,254989981,1,background,9,0,0.0,False,False,temperature anomaly,-0.29054094964006966
+figure01_multilevel_dynamics,254989981,1,background,9,1,0.03125,False,False,temperature anomaly,-0.32754694709774723
+figure01_multilevel_dynamics,254989981,1,background,9,2,0.0625,False,False,temperature anomaly,-0.30644737875472405
+figure01_multilevel_dynamics,254989981,1,background,9,3,0.09375,False,False,temperature anomaly,-0.28256429654870596
+figure01_multilevel_dynamics,254989981,1,background,9,4,0.125,False,False,temperature anomaly,-0.22158797063177013
+figure01_multilevel_dynamics,254989981,1,background,9,5,0.15625,False,False,temperature anomaly,-0.18691480094815216
+figure01_multilevel_dynamics,254989981,1,background,9,6,0.1875,False,False,temperature anomaly,-0.21233247459572732
+figure01_multilevel_dynamics,254989981,1,background,9,7,0.21875,False,False,temperature anomaly,-0.20894793315732973
+figure01_multilevel_dynamics,254989981,1,background,9,8,0.25,False,False,temperature anomaly,-0.19424387862528822
+figure01_multilevel_dynamics,254989981,1,background,9,9,0.28125,False,False,temperature anomaly,-0.16317705406330446
+figure01_multilevel_dynamics,254989981,1,background,9,10,0.3125,False,False,temperature anomaly,-0.2088844868918111
+figure01_multilevel_dynamics,254989981,1,background,9,11,0.34375,False,False,temperature anomaly,-0.1887160146953475
+figure01_multilevel_dynamics,254989981,1,background,9,12,0.375,False,False,temperature anomaly,-0.17666393451060455
+figure01_multilevel_dynamics,254989981,1,background,9,13,0.40625,False,False,temperature anomaly,-0.1741147881525527
+figure01_multilevel_dynamics,254989981,1,background,9,14,0.4375,False,False,temperature anomaly,-0.20860120087978026
+figure01_multilevel_dynamics,254989981,1,background,9,15,0.46875,False,False,temperature anomaly,-0.1943762231771135
+figure01_multilevel_dynamics,254989981,1,background,9,16,0.5,False,False,temperature anomaly,-0.16477893824727782
+figure01_multilevel_dynamics,254989981,1,background,9,17,0.53125,False,False,temperature anomaly,-0.1397964250051519
+figure01_multilevel_dynamics,254989981,1,background,9,18,0.5625,False,False,temperature anomaly,-0.10721606810324755
+figure01_multilevel_dynamics,254989981,1,background,9,19,0.59375,False,False,temperature anomaly,-0.1017741737989631
+figure01_multilevel_dynamics,254989981,1,background,9,20,0.625,True,False,temperature anomaly,-0.11318316434498073
+figure01_multilevel_dynamics,254989981,1,background,9,21,0.65625,True,False,temperature anomaly,-0.10364280551677107
+figure01_multilevel_dynamics,254989981,1,background,9,22,0.6875,True,False,temperature anomaly,-0.09035720921322263
+figure01_multilevel_dynamics,254989981,1,background,9,23,0.71875,True,False,temperature anomaly,-0.11954069759943989
+figure01_multilevel_dynamics,254989981,1,background,9,24,0.75,True,True,temperature anomaly,-0.05448094733976622
+figure01_multilevel_dynamics,254989981,1,background,9,25,0.78125,False,False,temperature anomaly,-0.043235979884498565
+figure01_multilevel_dynamics,254989981,1,background,9,26,0.8125,False,False,temperature anomaly,-0.07659403825347451
+figure01_multilevel_dynamics,254989981,1,background,9,27,0.84375,False,False,temperature anomaly,-0.0706196450557172
+figure01_multilevel_dynamics,254989981,1,background,9,28,0.875,False,False,temperature anomaly,-0.05787788637892532
+figure01_multilevel_dynamics,254989981,1,background,9,29,0.90625,False,False,temperature anomaly,-0.027470618355375256
+figure01_multilevel_dynamics,254989981,1,background,9,30,0.9375,False,False,temperature anomaly,-0.003091915745166889
+figure01_multilevel_dynamics,254989981,1,background,9,31,0.96875,False,False,temperature anomaly,0.010489654445293884
+figure01_multilevel_dynamics,254989981,1,background,9,32,1.0,False,False,temperature anomaly,0.01094989633907056

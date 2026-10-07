@@ -1,0 +1,86 @@
+source_level,source_component,target_level,target_component,coefficient,sign,time_alignment_or_lag,mathematical_term,biological_interpretation,process
+microbiome,guild_1_growth_support,development,gene_2_somatic_growth,0.18,+,most recent within-generation state,0.18 log(1+m_1),growth-supporting guild raises somatic-growth gene activity,within_generation
+microbiome,guild_4_opportunist,development,gene_3_stress_response,0.16,+,most recent within-generation state,0.16 log(1+m_4),opportunist expansion increases developmental stress response,within_generation
+epigenetic,regulatory_mark,development,gene_1_regulatory_initiation,0.952,+,most recent within-generation state,0.952 p_reg^circ,regulatory mark promotes developmental regulatory initiation,within_generation
+epigenetic,stress_memory_mark,development,gene_3_stress_response,0.784,+,most recent within-generation state,0.784 p_stress^circ,stress-memory mark promotes stress-response gene activity,within_generation
+ecological,food_resource_enrichment,development,gene_2_somatic_growth,0.22,+,most recent within-generation state,0.22 e_2,food enrichment supports growth-regulatory expression,within_generation
+ecological,microclimate_buffering,development,gene_5_allocation_signal,0.18,+,most recent within-generation state,0.18 e_3,buffered microclimate shifts allocation-related development,within_generation
+background,rainfall_anomaly,development,gene_2_somatic_growth,0.1,+,most recent within-generation state,0.10 b_1,rainfall anomaly affects growth conditions,within_generation
+background,temperature_anomaly,development,gene_3_stress_response,0.12,+,most recent within-generation state,0.12 b_2,temperature anomaly affects developmental stress,within_generation
+life_history,maturation_progress,development,gene_4_maturation_timing,0.15,+,most recent within-generation state,0.15 q_mat,maturation progress feeds developmental timing state,within_generation
+life_history,reproductive_allocation,development,gene_5_allocation_signal,0.12,+,most recent within-generation state,0.12 q_repr,reproductive allocation feeds allocation-related developmental signal,within_generation
+development,gene_2_somatic_growth,microbiome,guild_1_growth_support,5.3999999999999995,+,most recent within-generation state,"5.4 xbar_dev,2",host growth state supports beneficial guild,within_generation
+development,gene_3_stress_response,microbiome,guild_3_stress_tolerant,2.4,+,most recent within-generation state,"2.4 xbar_dev,3",stress-response state supports stress-tolerant guild,within_generation
+development,gene_3_stress_response,microbiome,guild_4_opportunist,4.8,+,most recent within-generation state,"4.8 xbar_dev,3",stress physiology favors opportunist guild,within_generation
+epigenetic,regulatory_mark,microbiome,guild_1_growth_support,0.25,+,most recent within-generation state,0.25 p_reg^circ,regulatory mark shifts host conditions toward support guild,within_generation
+epigenetic,stress_memory_mark,microbiome,guild_4_opportunist,0.3,+,most recent within-generation state,0.3 p_stress^circ,stress-memory state shifts host conditions toward opportunists,within_generation
+ecological,soil_organic_matter,microbiome,guild_2_fiber_fermenter,0.18,+,most recent within-generation state,0.18 e_1,organic matter supports fermenting guild,within_generation
+ecological,soil_organic_matter,microbiome,guild_5_cross_feeder,0.07,+,most recent within-generation state,0.07 e_1,organic matter supports cross-feeder guild,within_generation
+ecological,food_resource_enrichment,microbiome,guild_1_growth_support,0.2,+,most recent within-generation state,0.20 e_2,resource enrichment increases support guild growth,within_generation
+ecological,microclimate_buffering,microbiome,guild_3_stress_tolerant,-0.16,-,most recent within-generation state,-0.16 e_3,buffering lowers stress-tolerant guild advantage,within_generation
+background,rainfall_anomaly,microbiome,guild_1_growth_support,0.08,+,most recent within-generation state,0.08 b_1,rainfall anomaly affects microbial resource flow,within_generation
+background,temperature_anomaly,microbiome,guild_4_opportunist,0.1,+,most recent within-generation state,0.10 b_2,temperature anomaly favors opportunist growth,within_generation
+development,gene_4_maturation_timing,life_history,maturation_progress,,+,most recent within-generation state,"2.22 sigma(8(u-eta))+0.42 xbar_dev,4; eta contains -0.10 xbar_dev,4",maturation-timing gene accelerates threshold-crossing dynamics,within_generation
+development,gene_2_somatic_growth,life_history,growth_capacity,0.66,+,most recent within-generation state,"0.66 xbar_dev,2",somatic-growth gene raises growth capacity,within_generation
+development,gene_5_allocation_signal,life_history,reproductive_allocation,0.24,+,most recent within-generation state,"0.24 xbar_dev,5",allocation-related developmental signal raises reproductive allocation,within_generation
+microbiome,guild_1_growth_support,life_history,maturation_progress,,+,most recent within-generation state,2.22 sigma(8(u-eta))+0.18 log(1+m_1); eta contains -0.08 log(1+m_1),support guild accelerates maturation progress,within_generation
+microbiome,guild_1_growth_support,life_history,growth_capacity,,+,most recent within-generation state,0.36 log(1+m_1+0.6y_2),support guild contributes to growth capacity with guild 2,within_generation
+microbiome,guild_2_fiber_fermenter,life_history,growth_capacity,,+,most recent within-generation state,0.36 log(1+m_1+0.6y_2),fiber fermenter contributes to growth capacity with guild 1,within_generation
+epigenetic,regulatory_mark,life_history,maturation_progress,,+,most recent within-generation state,2.22 sigma(8(u-eta))+0.75 p_reg^circ; eta contains -0.315 p_reg^circ,regulatory mark accelerates maturation progress,within_generation
+epigenetic,regulatory_mark,life_history,growth_capacity,1.68,+,most recent within-generation state,1.68 p_reg^circ,regulatory mark raises growth capacity,within_generation
+epigenetic,stress_memory_mark,life_history,reproductive_allocation,0.77,+,most recent within-generation state,0.77 p_stress^circ,stress-memory mark changes allocation,within_generation
+ecological,microclimate_buffering,life_history,maturation_progress,0.1311999999999999,+,most recent within-generation state,0.1312 e_3,buffered microclimate supports maturation progress,within_generation
+ecological,food_resource_enrichment,life_history,growth_capacity,0.2788,+,most recent within-generation state,0.2788 e_2,food enrichment raises growth capacity,within_generation
+ecological,soil_organic_matter,life_history,reproductive_allocation,0.1803999999999999,+,most recent within-generation state,0.1804 e_1,modified soil or nest condition supports allocation,within_generation
+background,temperature_anomaly,life_history,maturation_progress,,-,most recent within-generation state,2.22 sigma(8(u-eta))-0.16 b_2; eta contains +0.06 b_2,temperature anomaly delays maturation progress,within_generation
+background,rainfall_anomaly,life_history,growth_capacity,0.1,+,most recent within-generation state,0.10 b_1,rainfall anomaly raises growth-capacity input,within_generation
+background,temperature_anomaly,life_history,reproductive_allocation,,+/-,most recent within-generation state,0.30 alpha-0.16 b_2; alpha=sigma(9(u-0.55+0.06 b_2-0.05 q_grow)),temperature anomaly shifts allocation switch and direct allocation cost,within_generation
+development,gene_1_regulatory_initiation,epigenetic,regulatory_mark,0.32,+,most recent within-generation state,"0.32 xbar_dev,1",developmental regulatory activity maintains regulatory mark,within_generation
+development,gene_3_stress_response,epigenetic,stress_memory_mark,0.3,+,most recent within-generation state,"0.30 xbar_dev,3",developmental stress response maintains stress-memory mark,within_generation
+life_history,growth_capacity,epigenetic,regulatory_mark,0.22,+,most recent within-generation state,0.22 q_grow,growth state supports read-write maintenance of regulatory mark,within_generation
+life_history,reproductive_allocation,epigenetic,stress_memory_mark,0.28,+,most recent within-generation state,0.28 q_repr,allocation state contributes to stress-memory maintenance,within_generation
+ecological,food_resource_enrichment,epigenetic,regulatory_mark,0.2,+,most recent within-generation state,0.20 e_2,resource-enriched ecology supports regulatory mark reconstruction,within_generation
+ecological,microclimate_buffering,epigenetic,stress_memory_mark,-0.16,-,most recent within-generation state,-0.16 e_3,buffered ecology reduces stress-memory gain,within_generation
+background,temperature_anomaly,epigenetic,regulatory_mark,-0.14,-,most recent within-generation state,-0.14 b_2,temperature anomaly suppresses regulatory-mark maintenance,within_generation
+background,temperature_anomaly,epigenetic,stress_memory_mark,0.22,+,most recent within-generation state,0.22 b_2,temperature anomaly promotes stress-memory mark,within_generation
+microbiome,guild_1_growth_support,ecological,soil_organic_matter,0.3,+,most recent within-generation state,0.30 log(1+m_1),microbial support guild contributes to soil or nest organic state,within_generation
+microbiome,guild_1_growth_support,ecological,food_resource_enrichment,0.12,+,most recent within-generation state,0.12 log(1+m_1),support guild contributes to resource enrichment,within_generation
+microbiome,guild_5_cross_feeder,ecological,microclimate_buffering,0.2,+,most recent within-generation state,0.20 log(1+m_5),cross-feeder guild contributes to buffered microenvironment,within_generation
+development,gene_2_somatic_growth,ecological,food_resource_enrichment,0.28,+,most recent within-generation state,"0.28 xbar_dev,2",somatic-growth state modifies resource enrichment,within_generation
+life_history,reproductive_allocation,ecological,soil_organic_matter,0.24,+,most recent within-generation state,0.24 q_repr,allocation modifies soil or nest organic state,within_generation
+life_history,reproductive_allocation,ecological,food_resource_enrichment,0.32,+,most recent within-generation state,0.32 q_repr,organism allocation modifies food-resource enrichment,within_generation
+life_history,maturation_progress,ecological,microclimate_buffering,0.22,+,most recent within-generation state,0.22 q_mat,maturation state modifies buffering behavior,within_generation
+background,temperature_anomaly,ecological,soil_organic_matter,-0.06,-,most recent within-generation state,-0.06 b_2,temperature anomaly reduces soil or nest organic state,within_generation
+background,temperature_anomaly,ecological,microclimate_buffering,-0.08,-,most recent within-generation state,-0.08 b_2,temperature anomaly reduces buffering,within_generation
+microbiome,guild_1_growth_support,ecological,soil_organic_matter,0.18,+,state at reproductive transition u_R=0.75,0.18 log(1+m_1),microbiome state at transmission contributes to reconstructed organic state,intergenerational
+life_history,reproductive_allocation,ecological,soil_organic_matter,0.18,+,state at reproductive transition u_R=0.75,0.18 q_repr,reproductive allocation at u_R represents provisioning that contributes to the reconstructed organic state,intergenerational
+life_history,reproductive_allocation,ecological,food_resource_enrichment,0.18,+,state at reproductive transition u_R=0.75,0.18 q_repr,reproductive allocation at u_R represents provisioning that contributes to reconstructed resources,intergenerational
+development,gene_2_somatic_growth,ecological,food_resource_enrichment,0.1,+,state at reproductive transition u_R=0.75,"0.10 tanh(x_dev,2)",parental developmental condition at u_R acts indirectly through resource provisioning in the reconstructed ecological state,intergenerational
+life_history,maturation_progress,ecological,microclimate_buffering,0.12,+,state at reproductive transition u_R=0.75,0.12 q_mat,parental condition at u_R contributes to establishment of the buffered offspring environment,intergenerational
+microbiome,guild_5_cross_feeder,ecological,microclimate_buffering,0.1,+,state at reproductive transition u_R=0.75,0.10 log(1+m_5),cross-feeder abundance at the transmission event contributes to reconstructed buffering,intergenerational
+epigenetic,regulatory_mark,development,gene_1_regulatory_initiation,1.02,+,next-generation initial reconstruction,1.02 p_reg^circ,epigenetic state reconstructs regulatory initiation,intergenerational
+epigenetic,regulatory_mark,development,gene_2_somatic_growth,0.48,+,next-generation initial reconstruction,0.48 p_reg^circ,epigenetic state reconstructs somatic-growth gene,intergenerational
+epigenetic,stress_memory_mark,development,gene_3_stress_response,0.78,+,next-generation initial reconstruction,0.78 p_stress^circ,stress-memory state reconstructs stress-response gene,intergenerational
+epigenetic,regulatory_mark,development,gene_4_maturation_timing,0.6000000000000001,+,next-generation initial reconstruction,0.6 p_reg^circ,epigenetic state reconstructs maturation-timing gene,intergenerational
+epigenetic,stress_memory_mark,development,gene_5_allocation_signal,0.36,+,next-generation initial reconstruction,0.36 p_stress^circ,stress-memory state reconstructs allocation signal,intergenerational
+ecological,food_resource_enrichment,development,gene_1_regulatory_initiation,0.1,+,next-generation initial reconstruction,0.10 e_2,resource enrichment reconstructs regulatory initiation,intergenerational
+ecological,food_resource_enrichment,development,gene_2_somatic_growth,0.22,+,next-generation initial reconstruction,0.22 e_2,resource enrichment reconstructs somatic-growth gene,intergenerational
+ecological,microclimate_buffering,development,gene_4_maturation_timing,0.12,+,next-generation initial reconstruction,0.12 e_3,buffering reconstructs maturation-timing gene,intergenerational
+ecological,microclimate_buffering,development,gene_5_allocation_signal,0.18,+,next-generation initial reconstruction,0.18 e_3,buffering reconstructs allocation signal,intergenerational
+background,rainfall_anomaly,development,gene_2_somatic_growth,0.08,+,next-generation initial reconstruction,0.08 b_1,rainfall anomaly affects reconstructed growth gene,intergenerational
+background,temperature_anomaly,development,gene_3_stress_response,0.1,+,next-generation initial reconstruction,0.10 b_2,temperature anomaly affects reconstructed stress gene,intergenerational
+epigenetic,regulatory_mark,microbiome,guild_1_growth_support,0.096,+,next-generation initial reconstruction,0.096 p_reg^circ,epigenetic state contributes to support-guild carryover,intergenerational
+epigenetic,stress_memory_mark,microbiome,guild_4_opportunist,0.12,+,next-generation initial reconstruction,0.12 p_stress^circ,stress-memory state contributes to opportunist carryover,intergenerational
+ecological,food_resource_enrichment,microbiome,guild_1_growth_support,0.08,+,next-generation initial reconstruction,0.08 e_2,resource enrichment contributes to support-guild carryover,intergenerational
+ecological,soil_organic_matter,microbiome,guild_2_fiber_fermenter,0.1,+,next-generation initial reconstruction,0.10 e_1,organic matter contributes to fermenter carryover,intergenerational
+ecological,microclimate_buffering,microbiome,guild_3_stress_tolerant,-0.08,-,next-generation initial reconstruction,-0.08 e_3,buffering reduces stress-tolerant carryover advantage,intergenerational
+background,temperature_anomaly,microbiome,guild_4_opportunist,0.06,+,next-generation initial reconstruction,0.06 b_2,temperature anomaly contributes to opportunist carryover,intergenerational
+ecological,soil_organic_matter,microbiome,guild_5_cross_feeder,0.06,+,next-generation initial reconstruction,0.06 e_1,organic matter contributes to cross-feeder carryover,intergenerational
+epigenetic,regulatory_mark,life_history,maturation_progress,0.2299999999999999,+,next-generation initial reconstruction,0.23 p_reg^circ,epigenetic state initializes maturation progress,intergenerational
+ecological,microclimate_buffering,life_history,maturation_progress,0.086,+,next-generation initial reconstruction,0.086 e_3,buffering initializes maturation progress,intergenerational
+background,temperature_anomaly,life_history,maturation_progress,-0.08,-,next-generation initial reconstruction,-0.08 b_2,temperature anomaly suppresses initial maturation progress,intergenerational
+epigenetic,regulatory_mark,life_history,growth_capacity,0.8,+,next-generation initial reconstruction,0.8 p_reg^circ,epigenetic state initializes growth capacity,intergenerational
+ecological,food_resource_enrichment,life_history,growth_capacity,0.1892,+,next-generation initial reconstruction,0.1892 e_2,resource enrichment initializes growth capacity,intergenerational
+background,rainfall_anomaly,life_history,growth_capacity,0.05,+,next-generation initial reconstruction,0.05 b_1,rainfall anomaly initializes growth capacity,intergenerational
+epigenetic,stress_memory_mark,life_history,reproductive_allocation,0.408,+,next-generation initial reconstruction,0.408 p_stress^circ,stress-memory state initializes reproductive allocation,intergenerational
+ecological,soil_organic_matter,life_history,reproductive_allocation,0.1204,+,next-generation initial reconstruction,0.1204 e_1,organic state initializes reproductive allocation,intergenerational

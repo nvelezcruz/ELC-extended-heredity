@@ -1,0 +1,2 @@
+alpha,true_positives,false_positives,false_negatives,true_negatives,precision,recall,f1,exact_recovery,n_null_per_edge,estimator
+0.01,28,3,0,5,0.9032258064516129,1.0,0.9491525423728814,False,500,coherent Gaussian-copula transfer entropy with generation-preserving source permutations

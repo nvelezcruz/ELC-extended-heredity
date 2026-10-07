@@ -1,0 +1,4 @@
+quantity,estimate_bits,bootstrap_mean_bits,bootstrap_se_bits,ci_method,ci_lower_bits,ci_upper_bits,complete_ge_binary_nu_check,weighted_decomposition_sum_bits,weighted_decomposition_error_bits
+complete_phenotype_transfer_entropy,0.0298827993438287,0.0297764935476997,0.0009545618932149,lineage-cluster bootstrap over cross-fitted log-probability ratios,0.028011892412113,0.0317537062755444,True,0.0298827993438287,3.469446951953614e-18
+binary_nu_transfer_entropy,0.0211976528086788,0.0211351073347128,0.0007991505058818,lineage-cluster bootstrap over cross-fitted log-probability ratios,0.0196313465989234,0.0227639590184342,True,0.0298827993438287,3.469446951953614e-18
+focal_nu_log_ratio_given_nu,0.0225865757012211,0.0224898735256789,0.00128316188683,lineage-cluster bootstrap over cross-fitted log-probability ratios,0.0200716246166998,0.0251015267857425,True,0.0298827993438287,3.469446951953614e-18

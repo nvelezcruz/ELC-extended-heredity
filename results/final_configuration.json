@@ -1,0 +1,130 @@
+{
+  "seeds": [
+    254989981,
+    265358979,
+    276563425,
+    287271829
+  ],
+  "n_lineages": 1000,
+  "n_generations": 32,
+  "burn_in_generations": 8,
+  "source_tau_start": 8,
+  "source_tau_stop": 30,
+  "history_order": 2,
+  "n_bootstrap": 500,
+  "n_pid_bootstrap": 300,
+  "n_null": 500,
+  "n_contexts": 1000,
+  "n_contexts_per_seed": 250,
+  "n_intervention_draws": 1000,
+  "theta_maturation": 0.6,
+  "theta_growth": 0.65,
+  "t_early_maturation": 3,
+  "intervention_grid_min": -1.5,
+  "intervention_grid_max": 1.5,
+  "intervention_grid_size": 7,
+  "fisher_step": 0.1,
+  "bootstrap_seed": 2026072301,
+  "null_seed": 2026072302,
+  "intervention_seed": 2026072303,
+  "pid_max_iter": 250,
+  "cmi_ridge": 0.0001,
+  "cmi_shrink": 0.06,
+  "parameter_overrides": [
+    [
+      "epi_founder_sd",
+      0.68
+    ],
+    [
+      "sigma_epi_reg",
+      0.24
+    ],
+    [
+      "sigma_epi_stress",
+      0.24
+    ],
+    [
+      "epi_transmission_noise_sd",
+      0.16
+    ],
+    [
+      "rho_epi_reg",
+      0.72
+    ],
+    [
+      "rho_epi_stress",
+      0.7
+    ],
+    [
+      "epi_effect_development_scale",
+      2.8
+    ],
+    [
+      "epi_development_start_scale",
+      3.0
+    ],
+    [
+      "development_effect_microbiome_scale",
+      30.0
+    ],
+    [
+      "epi_effect_microbiome_scale",
+      2.5
+    ],
+    [
+      "epi_microbiome_start_scale",
+      2.4
+    ],
+    [
+      "epi_effect_life_timing_scale",
+      4.5
+    ],
+    [
+      "epi_effect_life_maturation_scale",
+      3.0
+    ],
+    [
+      "epi_effect_life_growth_scale",
+      7.0
+    ],
+    [
+      "epi_effect_life_allocation_scale",
+      3.5
+    ],
+    [
+      "epi_life_start_maturation_scale",
+      1.15
+    ],
+    [
+      "epi_life_start_growth_scale",
+      5.0
+    ],
+    [
+      "epi_life_start_allocation_scale",
+      3.4
+    ],
+    [
+      "life_maturation_timing_base",
+      0.25
+    ],
+    [
+      "ecology_effect_life_history_scale",
+      0.82
+    ],
+    [
+      "ecology_life_start_scale",
+      0.86
+    ]
+  ],
+  "covariance_jitter_grid": [
+    0.0,
+    1e-10,
+    1e-08,
+    1e-06,
+    0.0001
+  ],
+  "categorical_folds": 5,
+  "categorical_logistic_c": 0.35,
+  "intervention_probability_smoothing_alpha": 0.5,
+  "n_response_grid_draws": 100
+}
